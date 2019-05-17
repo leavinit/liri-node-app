@@ -1,17 +1,20 @@
 require("dotenv").config();
-
-var axios = require("axios");
 var keys = require("./keys.js");
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
+var axios = require("axios");
 
 function fetch(url, operation){
-    
     axios
         .get(url)
         .then(function(response) {
-        var responses = response.data;
-        if (operation === "concert"){
-            printConcert(response.data);
-        }
+            if (operation === "concert"){
+                printConcert(response.data);
+            }
+            if (operation === "movie"){
+                printMovie(response.data);
+            }
+            
         })
         .catch(function(error) {
         if (error.response) {
@@ -34,7 +37,7 @@ function fetch(url, operation){
 
 function concert(artist){
     var artist = artist;
-    api_call ="https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    var api_call ="https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
     console.log(api_call);
     fetch(api_call,"concert");
 }
@@ -47,8 +50,38 @@ function printConcert(feedJson){
     });
 } 
 
+function song(songName){
+    var songName = songName;
+    spotify.search({ type: 'track', query: songName }, function(error, data) {
+        if (error) {
+          return console.log('Error!: ' + error);
+        }
+        console.log(data.tracks.items[0].album.artists[0].name);
+        console.log(data.tracks.items[0].name);
+        console.log(data.tracks.items[0].album.name);
+        console.log(data.tracks.items[0].preview_url);
 
+      });
+}
 
+function movie(movieName){
+    var movieName = movieName;
+    var api_call = "http://www.omdbapi.com/?t="+movieName+"&y=&plot=short&apikey=trilogy"
+    console.log(api_call);
+    fetch(api_call,"movie")
+}
+function printMovie(feedJson){
+    console.log(feedJson.Title);
+    console.log(feedJson.Year);
+    console.log(feedJson.Ratings[0]);
+    console.log(feedJson.Ratings[1]);
+    console.log(feedJson.Country);
+    console.log(feedJson.Language);
+    console.log(feedJson.Plot);
+    console.log(feedJson.Actors);
+
+}
+/////////////////////////////////////////////MAIN ENTRY POINT
 switch(process.argv[2]){
     case "concert-this" :
         console.log("concert-this");
@@ -57,10 +90,12 @@ switch(process.argv[2]){
     
     case "spotify-this-song" :
         console.log("spotify-this-song");
+        song(process.argv[3]);
         break;
     
     case "movie-this" :
         console.log("movie-this");
+        movie(process.argv[3]);
         break;
     
     case "do-what-it-says" :
