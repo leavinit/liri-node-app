@@ -1,0 +1,1473 @@
+Sat, 18 May 2019 03:32:29 GMT Command: movie-this Deadpool
+Sat, 18 May 2019 03:32:29 GMT Data Returned:
+
+Deadpool
+2016
+{"Source":"Internet Movie Database","Value":"8.0/10"}
+{"Source":"Rotten Tomatoes","Value":"84%"}
+USA
+English
+A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+
+Sat, 18 May 2019 03:33:00 GMT Command: concert-this The Big Wu
+Sat, 18 May 2019 03:33:00 GMT Data Returned:
+
+The Big Wu at Art-A-Whirl @ 612Brew
+Minneapolis, United States
+05/18/2019
+
+The Big Wu Album Release w/ Push & Turn @ Cameo At The Castle
+Rochester, United States
+06/01/2019
+
+The Big Wu @ Fandango Festival 2019 @ Keg and Case Market
+St Paul, United States
+06/09/2019
+
+Husby's Food & Spirits
+Sister Bay, United States
+07/19/2019
+
+Husby's Food & Spirits
+Sister Bay, United States
+07/20/2019
+
+The Big Wu @ Nevis Muskie Days Festival- Downtown Nevis, MN
+Nevis, United States
+07/27/2019
+
+The Big Wu @ Nevis Muskie Days
+Nevis, United States
+07/27/2019
+
+
+Sat, 18 May 2019 03:33:22 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:33:22 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:33:22 GMT Command: spotify-this-song "I Want it That Way"
+Sat, 18 May 2019 03:33:23 GMT Data Returned:
+
+Backstreet Boys
+I Want It That Way
+The Hits--Chapter One
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way
+Millennium
+https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way - Reimagined
+I Want It That Way (Reimagined)
+https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Anthem Lights
+I Want It That Way
+Covers Part IV
+https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Mick Jensen
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jess and Gabriel
+I Want It That Way
+Under the Covers, Vol. 3
+https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Tyler and Mark
+I Want It That Way
+Beautiful Dreams
+https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Poodle Hat
+https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+I Want It That Way
+90 Sweet 90s Hits!
+https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+NKOTBSB
+I Want It That Way
+NKOTBSB
+https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Steel Panther
+I Want It That Way
+I Want It That Way
+null
+
+Glee Cast
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Boyce Avenue
+I Want It That Way
+Cover Sessions, Vol. 2
+https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Manuel Costa
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scary Pockets
+I Want It That Way
+Nu Funk
+https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Punk Goes
+I Want It That Way
+Punk Goes Pop
+null
+
+Yshop
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+Selfies on Kodachrome
+https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Love Hits On Piano
+I Want It That Way
+Timeless Love
+https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+The Essential "Weird Al" Yankovic
+https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 03:33:44 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:33:44 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:33:44 GMT Command: concert-this "Tenacious D"
+Sat, 18 May 2019 03:33:44 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 03:34:05 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:34:05 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:34:05 GMT Command: spotify-this-song "I Want it That Way"
+Sat, 18 May 2019 03:34:05 GMT Data Returned:
+
+Backstreet Boys
+I Want It That Way
+The Hits--Chapter One
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way
+Millennium
+https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way - Reimagined
+I Want It That Way (Reimagined)
+https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Anthem Lights
+I Want It That Way
+Covers Part IV
+https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Mick Jensen
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jess and Gabriel
+I Want It That Way
+Under the Covers, Vol. 3
+https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Tyler and Mark
+I Want It That Way
+Beautiful Dreams
+https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Poodle Hat
+https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+I Want It That Way
+90 Sweet 90s Hits!
+https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+NKOTBSB
+I Want It That Way
+NKOTBSB
+https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Steel Panther
+I Want It That Way
+I Want It That Way
+null
+
+Glee Cast
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Boyce Avenue
+I Want It That Way
+Cover Sessions, Vol. 2
+https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Manuel Costa
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scary Pockets
+I Want It That Way
+Nu Funk
+https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Punk Goes
+I Want It That Way
+Punk Goes Pop
+null
+
+Yshop
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+Selfies on Kodachrome
+https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Love Hits On Piano
+I Want It That Way
+Timeless Love
+https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+The Essential "Weird Al" Yankovic
+https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 03:34:20 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:34:20 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:34:20 GMT Command: concert-this "Tenacious D"
+Sat, 18 May 2019 03:34:20 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 03:34:39 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:34:39 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:34:39 GMT Command: movie-this "The Big Lebowski"
+Sat, 18 May 2019 03:34:39 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+Sat, 18 May 2019 03:34:50 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:34:50 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:34:50 GMT Command: concert-this "Tenacious D"
+Sat, 18 May 2019 03:34:51 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 03:35:09 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:35:09 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:35:09 GMT Command: concert-this "Tenacious D"
+Sat, 18 May 2019 03:35:09 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 03:35:21 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:35:21 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:35:21 GMT Command: movie-this "The Big Lebowski"
+Sat, 18 May 2019 03:35:21 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+Sat, 18 May 2019 03:53:29 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:53:29 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:53:29 GMT Command: spotify-this-song "I Want it That Way"
+Sat, 18 May 2019 03:53:29 GMT Data Returned:
+
+Backstreet Boys
+I Want It That Way
+The Hits--Chapter One
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way
+Millennium
+https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way - Reimagined
+I Want It That Way (Reimagined)
+https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Anthem Lights
+I Want It That Way
+Covers Part IV
+https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Mick Jensen
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jess and Gabriel
+I Want It That Way
+Under the Covers, Vol. 3
+https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Tyler and Mark
+I Want It That Way
+Beautiful Dreams
+https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Poodle Hat
+https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+I Want It That Way
+90 Sweet 90s Hits!
+https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+NKOTBSB
+I Want It That Way
+NKOTBSB
+https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Steel Panther
+I Want It That Way
+I Want It That Way
+null
+
+Glee Cast
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Boyce Avenue
+I Want It That Way
+Cover Sessions, Vol. 2
+https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Manuel Costa
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scary Pockets
+I Want It That Way
+Nu Funk
+https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Punk Goes
+I Want It That Way
+Punk Goes Pop
+null
+
+Yshop
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+Selfies on Kodachrome
+https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Love Hits On Piano
+I Want It That Way
+Timeless Love
+https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+The Essential "Weird Al" Yankovic
+https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 03:53:32 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:53:32 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:53:32 GMT Command: concert-this "Tenacious D"
+Sat, 18 May 2019 03:53:32 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 03:53:39 GMT Command: do-what-it-says 
+Sat, 18 May 2019 03:53:39 GMT ---Next Command Generated From random.txt---
+
+Sat, 18 May 2019 03:53:39 GMT Command: movie-this "The Big Lebowski"
+Sat, 18 May 2019 03:53:39 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+Sat, 18 May 2019 03:54:02 GMT Command: movie-this The Big Lebowski
+Sat, 18 May 2019 03:54:03 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+Sat, 18 May 2019 04:03:20 GMT Command: spotify-this-song The Sign
+Sat, 18 May 2019 04:03:20 GMT Data Returned:
+
+Harry Styles
+Sign of the Times
+Harry Styles
+https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+The Chainsmokers
+Do You Mean (with Ty Dolla $ign & bülow)
+World War Joy...Do You Mean
+https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Scared of the Dark (feat. XXXTENTACION)
+Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+null
+
+Ty Dolla $ign
+Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jeremih
+Impatient
+Late Nights: The Album
+null
+
+Harry Styles
+Sign of the Times
+Sign of the Times
+https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+MihTy
+The Light
+The Light
+null
+
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Mac Miller
+Cinderella (feat. Ty Dolla $ign)
+The Divine Feminine
+https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Rich The Kid
+Woah (feat. Miguel & Ty Dolla $ign)
+The World Is Yours 2
+null
+
+Quality Control
+Movin’ Up
+Quality Control: Control The Streets Volume 1
+null
+
+Ty Dolla $ign
+Love U Better (feat. Lil Wayne & The-Dream)
+Beach House 3
+https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ty Dolla $ign
+Droptop in the Rain (feat. Tory Lanez)
+Beach House 3
+https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Lil Durk
+100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+Signed To The Streets 3
+null
+
+Coldplay
+Warning Sign
+A Rush Of Blood To The Head
+https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Game of Thrones
+When I Lie (Remix) (feat. Ty Dolla $ign)
+For The Throne (Music Inspired by the HBO Series Game of Thrones)
+https://p.scdn.co/mp3-preview/9dc089c14e85ea2a62c5ae7177f2582d7abb2c96?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Juicy J, Wiz Khalifa & Ty Dolla $ign
+Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Suicide Squad: The Album
+https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Wiz Khalifa
+Bacc To Winning (feat. Ty Dolla $ign) [Produced by Cardo and DJ.Fresh]
+Fly Times Vol. 1: The Good Fly Young
+https://p.scdn.co/mp3-preview/e6d6f93bc37a2cb73027343884d87142c05b3d10?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 04:03:57 GMT Command: spotify-this-song The Sign Ace of Base
+Sat, 18 May 2019 04:03:57 GMT Data Returned:
+
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Don't Turn Around
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Greatest Hits
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Happy Nation
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Wheel of Fortune
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Living in Danger
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Dancer in a Daydream
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Young and Proud
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Waiting for Magic - Total Remix 7" Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Happy Nation (U.S. Version) [Remastered]
+https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Voulez-Vous danser
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+My Mind - Mindless Mix
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Mr Ace - Demo 1991 Bonus Track
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants - Banghra Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Long Version
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Ultimix
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - The Remix
+Classic Remixes
+https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 04:05:53 GMT Command: spotify-this-song The Sign Ace of Base
+Sat, 18 May 2019 04:05:54 GMT Data Returned:
+
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Don't Turn Around
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Greatest Hits
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Happy Nation
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Wheel of Fortune
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Living in Danger
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Dancer in a Daydream
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Young and Proud
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Waiting for Magic - Total Remix 7" Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Happy Nation (U.S. Version) [Remastered]
+https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Voulez-Vous danser
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+My Mind - Mindless Mix
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Mr Ace - Demo 1991 Bonus Track
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants - Banghra Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Long Version
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Ultimix
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - The Remix
+Classic Remixes
+https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Sat, 18 May 2019 04:06:15 GMT Command: spotify-this-song The Sign Ace of Base
+Sat, 18 May 2019 04:06:15 GMT Data Returned:
+
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Don't Turn Around
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Greatest Hits
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Happy Nation
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Wheel of Fortune
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Living in Danger
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Dancer in a Daydream
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Young and Proud
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Waiting for Magic - Total Remix 7" Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Happy Nation (U.S. Version) [Remastered]
+https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Voulez-Vous danser
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+My Mind - Mindless Mix
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Mr Ace - Demo 1991 Bonus Track
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants - Banghra Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Long Version
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Ultimix
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - The Remix
+Classic Remixes
+https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
