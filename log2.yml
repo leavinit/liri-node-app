@@ -1,0 +1,489 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 2223
+    content: "\e[0m\e[0K"
+  - delay: 184
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 222
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2784
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mr\e[0m\e[0K\e[?25h"
+  - delay: 154
+    content: "\e[0;33;93mm\e[0m\e[0K"
+  - delay: 152
+    content: "\e[71G"
+  - delay: 154
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mrm\e[0m l\e[0K\e[?25h"
+  - delay: 195
+    content: "o\e[0K"
+  - delay: 99
+    content: "g\e[0K"
+  - delay: 389
+    content: ".\e[0K"
+  - delay: 145
+    content: "t\e[0K"
+  - delay: 285
+    content: "x\e[0K"
+  - delay: 382
+    content: "t\e[0K"
+  - delay: 153
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 155
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2931
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93ml\e[0m\e[0K\e[?25h"
+  - delay: 321
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G\e[?25h"
+  - delay: 220
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 76
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 125
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 186
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 285
+    content: "\e[73G"
+  - delay: 1591
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 282
+    content: "i\e[0K"
+  - delay: 123
+    content: "r\e[0K"
+  - delay: 156
+    content: "i\e[0K"
+  - delay: 438
+    content: ".\e[0K"
+  - delay: 187
+    content: "j\e[0K"
+  - delay: 117
+    content: "s\e[0K"
+  - delay: 255
+    content: "\e[81G"
+  - delay: 1127
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 125
+    content: "o\e[0K"
+  - delay: 92
+    content: "p\e[0K"
+  - delay: 441
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js so\e[0K\e[?25h"
+  - delay: 124
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 220
+    content: "p\e[0K"
+  - delay: 182
+    content: "o\e[0K"
+  - delay: 156
+    content: "t\e[0K"
+  - delay: 160
+    content: "i\e[0K"
+  - delay: 407
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spot\e[0K\e[?25h"
+  - delay: 559
+    content: "i\e[0K"
+  - delay: 155
+    content: "f\e[0K"
+  - delay: 346
+    content: "y\e[0K"
+  - delay: 531
+    content: "-\e[0K"
+  - delay: 622
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-song.yml\e[0K\e[?25h"
+  - delay: 1503
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-song.ym\e[0K\e[?25h"
+  - delay: 493
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-song.y\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-song.\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-song\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-son\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-so\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-s\e[0K\e[?25h"
+  - delay: 55
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this-\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-this\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-thi\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-th\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-t\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify-\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotify\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spotif\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spoti\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spot\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\spo\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\sp\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\s\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\\\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js .\e[0K\e[?25h"
+  - delay: 23
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js\e[0K\e[81G\e[?25h"
+  - delay: 157
+    content: "\e[80G"
+  - delay: 444
+    content: "\e[81G"
+  - delay: 342
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 118
+    content: "p\e[0K"
+  - delay: 165
+    content: "o\e[0K"
+  - delay: 118
+    content: "t\e[0K"
+  - delay: 160
+    content: "i\e[0K"
+  - delay: 283
+    content: "f\e[0K"
+  - delay: 163
+    content: "y\e[0K"
+  - delay: 260
+    content: "-\e[0K"
+  - delay: 283
+    content: "t\e[0K"
+  - delay: 187
+    content: "h\e[0K"
+  - delay: 149
+    content: "i\e[0K"
+  - delay: 96
+    content: "s\e[0K"
+  - delay: 223
+    content: "-\e[0K"
+  - delay: 343
+    content: "s\e[0K"
+  - delay: 126
+    content: "o\e[0K"
+  - delay: 150
+    content: "n\e[0K"
+  - delay: 476
+    content: "g\e[0K"
+  - delay: 169
+    content: "\e[99G"
+  - delay: 564
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"\e[0m\e[0K\e[?25h"
+  - delay: 9468
+    content: "\e[0;36mG\e[0m\e[0K"
+  - delay: 156
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 313
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"G\e[0m\e[0K\e[?25h"
+  - delay: 216
+    content: "\e[0;36mh\e[0m\e[0K"
+  - delay: 432
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 193
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 154
+    content: "\e[0;36mt\e[0m\e[0K"
+  - delay: 565
+    content: "\e[0;36mb\e[0m\e[0K"
+  - delay: 440
+    content: "\e[0;36mu\e[0m\e[0K"
+  - delay: 93
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 211
+    content: "\e[0;36mt\e[0m\e[0K"
+  - delay: 222
+    content: "\e[0;36me\e[0m\e[0K"
+  - delay: 64
+    content: "\e[0;36mr\e[0m\e[0K"
+  - delay: 714
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 352
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"Ghostbusters\"\e[0m\e[0K\e[?25h"
+  - delay: 1868
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1072
+    content: "spotify-this-song\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 57
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 354
+    content: "20 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nRay Parker, Jr.\e[0K\r\nGhostbusters\e[0K\r\nArista Heritage Series: Ray Parker\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGirls Talk Boys (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nOn Our Own\e[0K\r\nGhostbusters II\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nElle King\e[0K\r\nGood Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGood Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nFall Out Boy\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 23
+    content: "\e[?25l\r\n\e[0K\r\nEpic Rap Battles of History\e[0K\r\nGhostbusters vs Mythbusters\e[0K\r\nGhostbusters vs Mythbusters\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\r\n80s 100 Hits\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nwHo\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 43
+    content: "\e[?25l\r\n\e[0K\r\nG-Eazy\e[0K\r\nSaw It Coming (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nSaw It Coming (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nKidz Bop Kids\e[0K\r\nGhostbusters\e[0K\r\nKIDZ BOP Halloween\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\r\n80 Totally 80s Hits\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPigeons Playing Ping Pong\e[0K\r\nGhostbusters - Live\e[0K\r\nThe Great Outdoors Jam (Live)\e[0K\e[1G\e[?25h"
+  - delay: 21
+    content: "\e[?25l\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGet Ghost\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters II\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nHigher And Higher\e[0K\r\nGhostbusters II\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 30
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 24
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 5030
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 65
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 159
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 218
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 88
+    content: "\e[73G"
+  - delay: 257
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 92
+    content: "i\e[0K"
+  - delay: 99
+    content: "r\e[0K"
+  - delay: 177
+    content: "i\e[0K"
+  - delay: 164
+    content: "s\e[0K"
+  - delay: 528
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri\e[0K\e[?25h"
+  - delay: 287
+    content: ".\e[0K"
+  - delay: 340
+    content: "j\e[0K"
+  - delay: 154
+    content: "s\e[0K"
+  - delay: 1038
+    content: "\e[81G"
+  - delay: 2929
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js c\e[0K\e[?25h"
+  - delay: 95
+    content: "o\e[0K"
+  - delay: 125
+    content: "n\e[0K"
+  - delay: 753
+    content: "c\e[0K"
+  - delay: 244
+    content: "e\e[0K"
+  - delay: 162
+    content: "r\e[0K"
+  - delay: 250
+    content: "t\e[0K"
+  - delay: 857
+    content: "-\e[0K"
+  - delay: 437
+    content: "t\e[0K"
+  - delay: 92
+    content: "h\e[0K"
+  - delay: 158
+    content: "i\e[0K"
+  - delay: 99
+    content: "s\e[0K"
+  - delay: 651
+    content: "\e[94G"
+  - delay: 2891
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js concert-this G\e[0K\e[?25h"
+  - delay: 339
+    content: "w\e[0K"
+  - delay: 196
+    content: "a\e[0K"
+  - delay: 159
+    content: "r\e[0K"
+  - delay: 258
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1091
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 317
+    content: "Rocklahoma\e[0K\e[?25l\r\nPryor\e[0K\r\nUnited States\e[0K\r\n\e[0K\e[?25h"
+  - delay: 39
+    content: "05/24/2019\e[0K\e[?25l\r\n\e[0K\r\nLouder Than Life\e[0K\r\nLouisville\e[0K\r\nUnited States\e[0K\r\n09/27/2019\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 25
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 4315
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93ml\e[0m\e[0K\e[?25h"
+  - delay: 87
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 184
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 158
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 129
+    content: "\e[73G"
+  - delay: 1156
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m l\e[0K\e[?25h"
+  - delay: 247
+    content: "g\e[0K"
+  - delay: 30
+    content: "o\e[0K"
+  - delay: 288
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m lg\e[0K\e[?25h"
+  - delay: 156
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m l\e[0K\e[?25h"
+  - delay: 215
+    content: "o\e[0K"
+  - delay: 95
+    content: "g\e[0K"
+  - delay: 285
+    content: ".\e[0K"
+  - delay: 278
+    content: "t\e[0K"
+  - delay: 693
+    content: "x\e[0K"
+  - delay: 269
+    content: "t\e[0K"
+  - delay: 133
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 177
+    content: "\e[0m\e[1;1H\e[2J\e[0mTue, 21 May 2019 04:54:28 GMT Command: spotify-this-song Ghostbusters\e[0K\e[?25l\r\nTue, 21 May 2019 04:54:28 GMT Data Returned:\e[0K\r\n\e[0K\r\nRay Parker, Jr.\e[0K\r\nGhostbusters\e[0K\r\nArista Heritage Series: Ray Parker\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 15
+    content: "\e[?25l\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/c1f5ae4554f65acde39e135369d6c196193f348e?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/75a416879d53aa949a0237e3b829b588b6a23924?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGirls Talk Boys (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/61bc8cfe031808c4292deba8fc0a9e41c9f87c52?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/d7bd2e860e521bda3e316df4c4ea85023189a8db?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\n\e[0;30;47mlog.txt\e[0m\e[0K\e[?25h"
+  - delay: 3035
+    content: "\e[?25l\rOn Our Own\e[0K\r\nGhostbusters II\e[0K\r\nnull\e[0K\r\n\e[0K\r\nElle King\e[0K\r\nGood Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGood Girls (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/9670ca02a4897b1e0c72bb1fe4b89a43df1c4fe8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 42
+    content: "\e[?25l\r\n\e[0K\r\nFall Out Boy\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/afce25a206d4d74ebe687b27716702d5ee25b5f1?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nEpic Rap Battles of History\e[0K\r\nGhostbusters vs Mythbusters\e[0K\r\nGhostbusters vs Mythbusters\e[0K\r\nhttps://p.scdn.co/mp3-preview/330dceec805735253bd0944b0fd0eb47136149f5?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\r\n80s 100 Hits\e[0K\r\nhttps://p.scdn.co/mp3-preview/f3fe7600d3ab826ebf190f1cfa929e7be080015e?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\e[1G\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r\nwHo\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/ac1b8025ac71df91d508eb9df83ef7af736adb34?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 4457
+    content: "\e[8G"
+  - delay: 38
+    content: "\e[2G"
+  - delay: 460
+    content: "\e[?25l\r\e[0K\e[2G\e[?25h"
+  - delay: 63
+    content: "\e[?25l\r:\e[0K\e[?25h"
+  - delay: 1155
+    content: "\e[?25l\rVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/5fa573484fdc5eb2fdb3c4de5a53b810ef11fc26?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nG-Eazy\e[0K\r\nSaw It Coming (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nSaw It Coming (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/48445fc643d9d332b3973c66b46a8e7e79130604?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nKidz Bop Kids\e[0K\r\nGhostbusters\e[0K\r\nKIDZ BOP Halloween\e[0K\r\nnull\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters - From \"Ghostbusters\"\e[0K\e[1G\e[?25h"
+  - delay: 23
+    content: "\e[?25l\r\n80 Totally 80s Hits\e[0K\r\nhttps://p.scdn.co/mp3-preview/1a256ca908f26e5b56a83b17bb0d615158d02a2c?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters (I'm Not Afraid) (from the \"Ghostbusters\" Original Motion Picture Soundtrack)\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/afce25a206d4d74ebe687b27716702d5ee25b5f1?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPigeons Playing Ping Pong\e[0K\r\nGhostbusters - Live\e[0K\r\nThe Great Outdoors Jam (Live)\e[0K\r\nnull\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 1276
+    content: "\e[?25l\r\e[0K\r\nVarious Artists\e[0K\r\nGet Ghost\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/8b12eb50fd9a7a1d64bf348d847962ca095d6b09?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters II\e[0K\r\nnull\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nHigher And Higher\e[0K\r\nGhostbusters II\e[0K\r\nnull\e[0K\r\n\e[0K\r\n\e[0K\r\nTue, 21 May 2019 04:54:49 GMT Command: concert-this Gwar\e[0K\r\nTue, 21 May 2019 04:54:49 GMT Data Returned:\e[0K\e[1G\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\n\e[0K\r\nRocklahoma\e[0K\r\nPryor, United States\e[0K\r\n05/24/2019\e[0K\r\n\e[0K\r\nLouder Than Life\e[0K\r\nLouisville, United States\e[0K\r\n09/27/2019\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0;30;47m(END)\e[0m\e[0K\e[?25h"
+  - delay: 5010
+    content: "\e[?25l\r\e[28A\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\r\n\e[0K\e[6G\e[?25h"
+  - delay: 38
+    content: "\e[?25l\r\e[29Ahttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPigeons Playing Ping Pong\e[0K\r\nGhostbusters - Live\e[0K\r\nThe Great Outdoors Jam (Live)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGet Ghost\e[0K\r\nGhostbusters (Original Motion Picture Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nGhostbusters\e[0K\r\nGhostbusters II\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nHigher And Higher\e[0K\r\nGhostbusters II\e[0K\r\nhttps://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js concert-this Gwar\e[0K\r\n---logged---\e[0K\r\nRocklahoma\e[0K\r\nPryor\e[0K\r\nUnited States\e[0K\r\n05/24/2019\e[0K\r\n\e[0K\r\nLouder Than Life\e[0K\r\nLouisville\e[0K\r\nUnited States\e[0K\r\n09/27/2019\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m log.txt\e[0K\r\n\e[0K\e[?25h"
+  - delay: 12
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2973
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 220
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 155
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 155
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 90
+    content: "\e[?25l\r\n\e[0K\e[?25h"

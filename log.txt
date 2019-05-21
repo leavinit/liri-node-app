@@ -1,104 +1,116 @@
-Tue, 21 May 2019 04:48:43 GMT Command: spotify-this-song Birdhouse In Your Soul
-Tue, 21 May 2019 04:48:44 GMT Data Returned:
+Tue, 21 May 2019 04:54:28 GMT Command: spotify-this-song Ghostbusters
+Tue, 21 May 2019 04:54:28 GMT Data Returned:
 
-They Might Be Giants
-Birdhouse in Your Soul
-Flood
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Ray Parker, Jr.
+Ghostbusters
+Arista Heritage Series: Ray Parker
+https://p.scdn.co/mp3-preview/fc919929a10a7d712f76c36566321e2048f7daa8?cid=8f68c60e40ee44ffa6f9a50eac808531
 
-They Might Be Giants
-Birdhouse in Your Soul
-Severe Tire Damage
-https://p.scdn.co/mp3-preview/0f81b387d53ef82428675fe37b659e4de74855d2?cid=8f68c60e40ee44ffa6f9a50eac808531
+Various Artists
+Ghostbusters - From "Ghostbusters"
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/c1f5ae4554f65acde39e135369d6c196193f348e?cid=8f68c60e40ee44ffa6f9a50eac808531
 
-Vitamin String Quartet
-Birdhouse in Your Soul
-Geek Wedding Collection
-https://p.scdn.co/mp3-preview/aed09d462d901f272b0b4a277d9887f45d6e3012?cid=8f68c60e40ee44ffa6f9a50eac808531
+Various Artists
+Ghostbusters
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/75a416879d53aa949a0237e3b829b588b6a23924?cid=8f68c60e40ee44ffa6f9a50eac808531
 
-Jim Dooley
-Birdhouse In Your Soul
-Pushing Daisies (Original Television Soundtrack)
+Various Artists
+Girls Talk Boys (from the "Ghostbusters" Original Motion Picture Soundtrack)
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/61bc8cfe031808c4292deba8fc0a9e41c9f87c52?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Ghostbusters
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/d7bd2e860e521bda3e316df4c4ea85023189a8db?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+On Our Own
+Ghostbusters II
+null
+
+Elle King
+Good Girls (from the "Ghostbusters" Original Motion Picture Soundtrack)
+Good Girls (from the "Ghostbusters" Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/9670ca02a4897b1e0c72bb1fe4b89a43df1c4fe8?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Fall Out Boy
+Ghostbusters (I'm Not Afraid) (from the "Ghostbusters" Original Motion Picture Soundtrack)
+Ghostbusters (I'm Not Afraid) (from the "Ghostbusters" Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/afce25a206d4d74ebe687b27716702d5ee25b5f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Epic Rap Battles of History
+Ghostbusters vs Mythbusters
+Ghostbusters vs Mythbusters
+https://p.scdn.co/mp3-preview/330dceec805735253bd0944b0fd0eb47136149f5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Ghostbusters - From "Ghostbusters"
+80s 100 Hits
+https://p.scdn.co/mp3-preview/f3fe7600d3ab826ebf190f1cfa929e7be080015e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+wHo
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/ac1b8025ac71df91d508eb9df83ef7af736adb34?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Ghostbusters
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/5fa573484fdc5eb2fdb3c4de5a53b810ef11fc26?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+G-Eazy
+Saw It Coming (from the "Ghostbusters" Original Motion Picture Soundtrack)
+Saw It Coming (from the "Ghostbusters" Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/48445fc643d9d332b3973c66b46a8e7e79130604?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Kidz Bop Kids
+Ghostbusters
+KIDZ BOP Halloween
 null
 
 Various Artists
-Birdhouse In Your Soul
-Summer Hits of the '90s
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Ghostbusters - From "Ghostbusters"
+80 Totally 80s Hits
+https://p.scdn.co/mp3-preview/1a256ca908f26e5b56a83b17bb0d615158d02a2c?cid=8f68c60e40ee44ffa6f9a50eac808531
 
 Various Artists
-Birdhouse In Your Soul
-Oldies 80's
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Ghostbusters (I'm Not Afraid) (from the "Ghostbusters" Original Motion Picture Soundtrack)
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/afce25a206d4d74ebe687b27716702d5ee25b5f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Pigeons Playing Ping Pong
+Ghostbusters - Live
+The Great Outdoors Jam (Live)
+null
 
 Various Artists
-Birdhouse in Your Soul
-90's Oldies - Rock
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Phil Henry
-Birdhouse in Your Soul
-Aberdeen
-https://p.scdn.co/mp3-preview/9777ff5b7c3905fce4edc1abe95cc194108e6715?cid=8f68c60e40ee44ffa6f9a50eac808531
+Get Ghost
+Ghostbusters (Original Motion Picture Soundtrack)
+https://p.scdn.co/mp3-preview/8b12eb50fd9a7a1d64bf348d847962ca095d6b09?cid=8f68c60e40ee44ffa6f9a50eac808531
 
 Various Artists
-Birdhouse In Your Soul
-80s Indie
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Ghostbusters
+Ghostbusters II
+null
 
 Various Artists
-Birdhouse In Your Soul
-Summer Pop
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Higher And Higher
+Ghostbusters II
+null
 
-Various Artists
-Birdhouse In Your Soul
-Alternative Pop
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
 
-Various Artists
-Birdhouse In Your Soul
-Radio 80's
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Tue, 21 May 2019 04:54:49 GMT Command: concert-this Gwar
+Tue, 21 May 2019 04:54:49 GMT Data Returned:
 
-Various Artists
-Birdhouse In Your Soul
-1989
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Rocklahoma
+Pryor, United States
+05/24/2019
 
-Kiev cuando nieva
-Birdhouse in Your Soul
-Parece Doble
-https://p.scdn.co/mp3-preview/4b31facd8c679203868be15790017e0d1f0c01c2?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Various Artists
-Birdhouse In Your Soul
-90s Rock
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Various Artists
-Birdhouse In Your Soul
-80's Pop Record Box
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Various Artists
-Birdhouse In Your Soul
-Indie Cocktail
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Two of a Kind
-Birdhouse in Your Soul
-Sing Me Your Story
-https://p.scdn.co/mp3-preview/abba40162b8e4b6c514b82561cfe0dd480d2f61f?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Various Artists
-Birdhouse In Your Soul
-Early Indie
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
-
-Various Artists
-Birdhouse In Your Soul
-Monday Mixtape
-https://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531
+Louder Than Life
+Louisville, United States
+09/27/2019
 
 

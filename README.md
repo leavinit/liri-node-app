@@ -24,6 +24,7 @@ https://terminalizer.com/view/400d3c651007
 
 Log.txt demo:
 https://terminalizer.com/view/4036bc2d1009
+https://terminalizer.com/view/16495f2b1010
 
 Github portfolio:
 https://github.com/leavinit
