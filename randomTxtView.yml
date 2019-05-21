@@ -1,0 +1,455 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 2190
+    content: "\e[0m\e[0K"
+  - delay: 300
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 256
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 4411
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93ml\e[0m\e[0K\e[?25h"
+  - delay: 155
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 215
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 214
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 144
+    content: "\e[73G"
+  - delay: 736
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m r\e[0K\e[?25h"
+  - delay: 149
+    content: "a\e[0K"
+  - delay: 129
+    content: "n\e[0K"
+  - delay: 154
+    content: "d\e[0K"
+  - delay: 161
+    content: "o\e[0K"
+  - delay: 119
+    content: "m\e[0K"
+  - delay: 1423
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.txt.\e[0K"
+  - delay: 31
+    content: "t\e[0K\e[?25h"
+  - delay: 782
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.txt.\e[0K\e[?25h"
+  - delay: 506
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.txt\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.tx\e[0K\e[?25h"
+  - delay: 54
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.t\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random.\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\random\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\rando\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\rand\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\ran\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\ra\e[0K\e[?25h"
+  - delay: 28
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\r\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\\\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m .\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m\e[0K\e[73G\e[?25h"
+  - delay: 37
+    content: "\e[72G"
+  - delay: 40
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mles\e[0m\e[0K\e[?25h"
+  - delay: 503
+    content: "\e[72G"
+  - delay: 249
+    content: "\e[71G"
+  - delay: 159
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m\e[0K\e[?25h"
+  - delay: 92
+    content: "\e[73G"
+  - delay: 280
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m r\e[0K\e[?25h"
+  - delay: 154
+    content: "e\e[0K"
+  - delay: 125
+    content: "a\e[0K"
+  - delay: 187
+    content: "n\e[0K"
+  - delay: 341
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m rea\e[0K\e[?25h"
+  - delay: 127
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m re\e[0K\e[?25h"
+  - delay: 161
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m r\e[0K\e[?25h"
+  - delay: 89
+    content: "a\e[0K"
+  - delay: 404
+    content: "d\e[0K"
+  - delay: 282
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m ra\e[0K\e[?25h"
+  - delay: 185
+    content: "n\e[0K"
+  - delay: 101
+    content: "d\e[0K"
+  - delay: 89
+    content: "o\e[0K"
+  - delay: 160
+    content: "m\e[0K"
+  - delay: 344
+    content: ".\e[0K"
+  - delay: 217
+    content: "t\e[0K"
+  - delay: 283
+    content: "x\e[0K"
+  - delay: 251
+    content: "t\e[0K"
+  - delay: 660
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 683
+    content: "\e[?25l\r\e[4Aspotify-this-song,\"I Want it That Way\"\e[0K\r\nconcert-this,\"NOFX\"\e[0K\r\nmovie-this,\"The Big Lebowski\"\e[0K\r\nconcert-this,\"Tenacious D\"\e[0K\r\nspotify-this-song,\"2 Girls One Cup Song\"\e[0K\r\n\e[0;30;47mrandom.txt (END)\e[0m\e[0K\e[?25h"
+  - delay: 4719
+    content: "\e[?25l\r\e[5AWindows PowerShell\e[0K\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m random.txt\e[0K\r\n\e[0K\r\n\e[0K\r\e[5A\e[?25h"
+  - delay: 26
+    content: "\e[?25l\r\n\r\n\r\n\r\n\e[?25h"
+  - delay: 93
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[?25l\r\n\e[0K\r\e[1A\e[68G\e[?25h"
+  - delay: 4412
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\r\n\e[0K\r\e[1A\e[69G\e[?25h"
+  - delay: 189
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mno\e[0m\e[0K\r\n\e[0K\r\e[1A\e[70G\e[?25h"
+  - delay: 373
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnod\e[0m\e[0K\r\n\e[0K\r\e[1A\e[71G\e[?25h"
+  - delay: 220
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m\e[0K\r\n\e[0K\r\e[1A\e[72G\e[?25h"
+  - delay: 122
+    content: "\e[73G"
+  - delay: 316
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\r\n\e[0K\r\e[1A\e[74G\e[?25h"
+  - delay: 123
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m li\e[0K\r\n\e[0K\r\e[1A\e[75G\e[?25h"
+  - delay: 156
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m lir\e[0K\r\n\e[0K\r\e[1A\e[76G\e[?25h"
+  - delay: 186
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m lire\e[0K\r\n\e[0K\r\e[1A\e[77G\e[?25h"
+  - delay: 287
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m lir\e[0K\r\n\e[0K\r\e[1A\e[76G\e[?25h"
+  - delay: 215
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri\e[0K\r\n\e[0K\r\e[1A\e[77G\e[?25h"
+  - delay: 59
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liris\e[0K\r\n\e[0K\r\e[1A\e[78G\e[?25h"
+  - delay: 536
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri\e[0K\r\n\e[0K\r\e[1A\e[77G\e[?25h"
+  - delay: 678
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.\e[0K\r\n\e[0K\r\e[1A\e[78G\e[?25h"
+  - delay: 256
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.j\e[0K\r\n\e[0K\r\e[1A\e[79G\e[?25h"
+  - delay: 589
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js\e[0K\r\n\e[0K\r\e[1A\e[80G\e[?25h"
+  - delay: 253
+    content: "\e[81G"
+  - delay: 692
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js d\e[0K\r\n\e[0K\r\e[1A\e[82G\e[?25h"
+  - delay: 61
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do\e[0K\r\n\e[0K\r\e[1A\e[83G\e[?25h"
+  - delay: 812
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js d\e[0K\r\n\e[0K\r\e[1A\e[82G\e[?25h"
+  - delay: 152
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js\e[0K\r\n\e[0K\r\e[1A\e[81G\e[?25h"
+  - delay: 217
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-\e[0m\e[0K\r\n\e[0K\r\e[1A\e[82G\e[?25h"
+  - delay: 506
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-d\e[0m\e[0K\r\n\e[0K\r\e[1A\e[83G\e[?25h"
+  - delay: 66
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-do\e[0m\e[0K\r\n\e[0K\r\e[1A\e[84G\e[?25h"
+  - delay: 183
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-dow\e[0m\e[0K\r\n\e[0K\r\e[1A\e[85G\e[?25h"
+  - delay: 1094
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-dowh\e[0m\e[0K\r\n\e[0K\r\e[1A\e[86G\e[?25h"
+  - delay: 598
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-dow\e[0m\e[0K\r\n\e[0K\r\e[1A\e[85G\e[?25h"
+  - delay: 182
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-do\e[0m\e[0K\r\n\e[0K\r\e[1A\e[84G\e[?25h"
+  - delay: 156
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-d\e[0m\e[0K\r\n\e[0K\r\e[1A\e[83G\e[?25h"
+  - delay: 164
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js \e[0;37;90m-\e[0m\e[0K\r\n\e[0K\r\e[1A\e[82G\e[?25h"
+  - delay: 276
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js\e[0K\r\n\e[0K\r\e[1A\e[81G\e[?25h"
+  - delay: 188
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js d\e[0K\r\n\e[0K\r\e[1A\e[82G\e[?25h"
+  - delay: 152
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do\e[0K\r\n\e[0K\r\e[1A\e[83G\e[?25h"
+  - delay: 345
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dow\e[0K\r\n\e[0K\r\e[1A\e[84G\e[?25h"
+  - delay: 191
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowh\e[0K\r\n\e[0K\r\e[1A\e[85G\e[?25h"
+  - delay: 188
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowha\e[0K\r\n\e[0K\r\e[1A\e[86G\e[?25h"
+  - delay: 2030
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowhat\e[0K\r\n\e[0K\r\e[1A\e[87G\e[?25h"
+  - delay: 161
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowhati\e[0K\r\n\e[0K\r\e[1A\e[88G\e[?25h"
+  - delay: 618
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowhatit\e[0K\r\n\e[0K\r\e[1A\e[89G\e[?25h"
+  - delay: 535
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowhati\e[0K\r\n\e[0K\r\e[1A\e[88G\e[?25h"
+  - delay: 158
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowhat\e[0K\r\n\e[0K\r\e[1A\e[87G\e[?25h"
+  - delay: 155
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowha\e[0K\r\n\e[0K\r\e[1A\e[86G\e[?25h"
+  - delay: 155
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dowh\e[0K\r\n\e[0K\r\e[1A\e[85G\e[?25h"
+  - delay: 149
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js dow\e[0K\r\n\e[0K\r\e[1A\e[84G\e[?25h"
+  - delay: 165
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do\e[0K\r\n\e[0K\r\e[1A\e[83G\e[?25h"
+  - delay: 215
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-\e[0K\r\n\e[0K\r\e[1A\e[84G\e[?25h"
+  - delay: 503
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-w\e[0K\r\n\e[0K\r\e[1A\e[85G\e[?25h"
+  - delay: 95
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-wh\e[0K\r\n\e[0K\r\e[1A\e[86G\e[?25h"
+  - delay: 155
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-wha\e[0K\r\n\e[0K\r\e[1A\e[87G\e[?25h"
+  - delay: 151
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what\e[0K\r\n\e[0K\r\e[1A\e[88G\e[?25h"
+  - delay: 222
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-\e[0K\r\n\e[0K\r\e[1A\e[89G\e[?25h"
+  - delay: 437
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-i\e[0K\r\n\e[0K\r\e[1A\e[90G\e[?25h"
+  - delay: 346
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it\e[0K\r\n\e[0K\r\e[1A\e[91G\e[?25h"
+  - delay: 775
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-\e[0K\r\n\e[0K\r\e[1A\e[92G\e[?25h"
+  - delay: 317
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-s\e[0K\r\n\e[0K\r\e[1A\e[93G\e[?25h"
+  - delay: 154
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-sa\e[0K\r\n\e[0K\r\e[1A\e[94G\e[?25h"
+  - delay: 249
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-say\e[0K\r\n\e[0K\r\e[1A\e[95G\e[?25h"
+  - delay: 231
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\r\n\e[0K\r\e[1A\e[96G\e[?25h"
+  - delay: 219
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 1144
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\nhttp://www.omdbapi.com/?t=\"The Big Lebowski\"&y=&plot=short&apikey=trilogy\e[0K\r\n\e[0K\e[?25h"
+  - delay: 32
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 107
+    content: "The Big Lebowski\e[0K\e[?25l\r\n1998\e[0K\r\n{ Source: \e[0;32m'Internet Movie Database'\e[0m, Value: \e[0;32m'8.1/10'\e[0m }\e[0K\r\n{ Source: \e[0;32m'Rotten Tomatoes'\e[0m, Value: \e[0;32m'83%'\e[0m }\e[0K\r\nUSA, UK\e[0K\r\nEnglish, German, Hebrew, Spanish\e[0K\r\nJeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists\e[0K\r\nhis bowling buddies to help get it.\e[0K\r\e[2A\e[?25h"
+  - delay: 38
+    content: "\e[?25l\r\n\r\n\r\nJeff Bridges, John Goodman, Julianne Moore, Steve Buscemi\e[0K\r\n---logged---\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G\e[?25h"
+  - delay: 4188
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\e[?25h"
+  - delay: 3021
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1075
+    content: "spotify-this-song\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 55
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 305
+    content: "20 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nBackstreet Boys\e[0K\r\nI Want It That Way\e[0K\r\nThe Hits--Chapter One\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nBackstreet Boys\e[0K\r\nI Want It That Way\e[0K\r\nMillennium\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nBackstreet Boys\e[0K\r\nI Want It That Way - Reimagined\e[0K\r\nI Want It That Way (Reimagined)\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 34
+    content: "\e[?25l\r\n\e[0K\r\nAnthem Lights\e[0K\r\nI Want It That Way\e[0K\r\nCovers Part IV\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nMick Jensen\e[0K\r\nI Want It That Way\e[0K\r\nI Want It That Way\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nJess and Gabriel\e[0K\r\nI Want It That Way\e[0K\r\nUnder the Covers, Vol. 3\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nTyler and Mark\e[0K\r\nI Want It That Way\e[0K\r\nBeautiful Dreams\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n\"Weird Al\" Yankovic\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\nEbay (Parody of \"I Want It That Way\" by the Backstreet Boys)\e[0K\r\nPoodle Hat\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nI Want It That Way\e[0K\r\n90 Sweet 90s Hits!\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nNKOTBSB\e[0K\r\nI Want It That Way\e[0K\e[1G\e[?25h"
+  - delay: 41
+    content: "\e[?25l\r\nNKOTBSB\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nSteel Panther\e[0K\r\nI Want It That Way\e[0K\r\nI Want It That Way\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nGlee Cast\e[0K\r\nBye Bye Bye / I Want It That Way (Glee Cast Version)\e[0K\r\nBye Bye Bye / I Want It That Way (Glee Cast Version)\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nBoyce Avenue\e[0K\r\nI Want It That Way\e[0K\r\nCover Sessions, Vol. 2\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPunk Goes\e[0K\r\nI Want It That Way\e[0K\r\nPunk Goes Pop\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nManuel Costa\e[0K\r\nI Want It That Way\e[0K\e[1G\e[?25h"
+  - delay: 42
+    content: "\e[?25l\r\nI Want It That Way\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nScary Pockets\e[0K\r\nI Want It That Way\e[0K\r\nNu Funk\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nYshop\e[0K\r\nI Want It That Way\e[0K\r\nI Want It That Way\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nScott Bradlee's Postmodern Jukebox\e[0K\r\nI Want It That Way\e[0K\r\nSelfies on Kodachrome\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nLove Hits On Piano\e[0K\r\nI Want It That Way\e[0K\r\nTimeless Love\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n\"Weird Al\" Yankovic\e[0K\r\nEbay (Parody of \"I Want It That Way\" by the Backstreet Boys)\e[0K\r\nThe Essential \"Weird Al\" Yankovic\e[0K\r\nhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 16
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 5191
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\e[?25h"
+  - delay: 1457
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1005
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 67
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 380
+    content: "Iradier Arena\e[0K\e[?25l\r\nVitoria-gasteiz\e[0K\r\nSpain\e[0K\r\n\e[0K\e[?25h"
+  - delay: 46
+    content: "05/18/2019\e[0K\e[?25l\r\n\e[0K\r\nMelkweg\e[0K\r\nAmsterdam\e[0K\r\nNetherlands\e[0K\r\n05/22/2019\e[0K\r\n\e[0K\r\nTemple Newsam House\e[0K\r\nLeeds\e[0K\r\nUnited Kingdom\e[0K\r\n05/25/2019\e[0K\r\n\e[0K\r\nHatfield House\e[0K\r\nHatfield\e[0K\e[1G\e[?25h"
+  - delay: 88
+    content: "\e[?25l\r\nUnited Kingdom\e[0K\r\n05/26/2019\e[0K\r\n\e[0K\r\nLegend Valley\e[0K\r\nThornville\e[0K\r\nUnited States\e[0K\r\n06/02/2019\e[0K\r\n\e[0K\r\nEdmonton Expo Centre\e[0K\r\nEdmonton\e[0K\r\nCanada\e[0K\r\n07/06/2019\e[0K\r\n\e[0K\r\nPNE Amphitheatre\e[0K\r\nVancouver\e[0K\r\nCanada\e[0K\r\n07/13/2019\e[0K\r\n\e[0K\r\nFestival Des Bières Du Monde\e[0K\r\nChicoutimi\e[0K\e[1G\e[?25h"
+  - delay: 18
+    content: "\e[?25l\r\nCanada\e[0K\r\n07/20/2019\e[0K\r\n\e[0K\r\nShoreline Amphitheatre\e[0K\r\nMountain View\e[0K\r\nUnited States\e[0K\r\n07/21/2019\e[0K\r\n\e[0K\r\nTsunami Xixón 2019\e[0K\r\nGijón\e[0K\r\nSpain\e[0K\r\n08/02/2019\e[0K\r\n\e[0K\r\nPunk Rock Holiday\e[0K\r\nTolmin\e[0K\r\nSlovenia\e[0K\r\n08/08/2019\e[0K\r\n\e[0K\r\nLokerse Feesten\e[0K\r\nLokeren\e[0K\r\nBelgium\e[0K\r\n08/11/2019\e[0K\e[1G\e[?25h"
+  - delay: 21
+    content: "\e[?25l\r\n\e[0K\r\nBay Fest\e[0K\r\nIgea Marina\e[0K\r\nItaly\e[0K\r\n08/12/2019\e[0K\r\n\e[0K\r\nPost Tenebras Rock - Rez de l'Usine\e[0K\r\nChatelaine-geneve\e[0K\r\nSwitzerland\e[0K\r\n08/14/2019\e[0K\r\n\e[0K\r\nMOTOCULTOR\e[0K\r\nVannes\e[0K\r\nFrance\e[0K\r\n08/15/2019\e[0K\r\n\e[0K\r\nÉlysée Montmartre\e[0K\r\nParis\e[0K\r\nFrance\e[0K\r\n08/17/2019\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 27
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 26
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2220
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\e[?25h"
+  - delay: 1494
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1004
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 64
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 105
+    content: "Iradier Arena\e[0K\e[?25l\r\nVitoria-gasteiz\e[0K\r\nSpain\e[0K\r\n05/18/2019\e[0K\r\n\e[0K\r\nMelkweg\e[0K\r\nAmsterdam\e[0K\r\nNetherlands\e[0K\e[1G\e[?25h"
+  - delay: 50
+    content: "\e[?25l\r\n05/22/2019\e[0K\r\n\e[0K\r\nTemple Newsam House\e[0K\r\nLeeds\e[0K\r\nUnited Kingdom\e[0K\r\n05/25/2019\e[0K\r\n\e[0K\r\nHatfield House\e[0K\r\nHatfield\e[0K\r\nUnited Kingdom\e[0K\r\n05/26/2019\e[0K\r\n\e[0K\r\nLegend Valley\e[0K\r\nThornville\e[0K\r\nUnited States\e[0K\r\n06/02/2019\e[0K\r\n\e[0K\r\nEdmonton Expo Centre\e[0K\r\nEdmonton\e[0K\r\nCanada\e[0K\r\n07/06/2019\e[0K\r\n\e[0K\r\nPNE Amphitheatre\e[0K\r\nVancouver\e[0K\r\nCanada\e[0K\e[1G\e[?25h"
+  - delay: 36
+    content: "\e[?25l\r\n07/13/2019\e[0K\r\n\e[0K\r\nFestival Des Bières Du Monde\e[0K\r\nChicoutimi\e[0K\r\nCanada\e[0K\r\n07/20/2019\e[0K\r\n\e[0K\r\nShoreline Amphitheatre\e[0K\r\nMountain View\e[0K\r\nUnited States\e[0K\r\n07/21/2019\e[0K\r\n\e[0K\r\nTsunami Xixón 2019\e[0K\r\nGijón\e[0K\r\nSpain\e[0K\r\n08/02/2019\e[0K\r\n\e[0K\r\nPunk Rock Holiday\e[0K\r\nTolmin\e[0K\e[1G\e[?25h"
+  - delay: 56
+    content: "\e[?25l\r\nSlovenia\e[0K\r\n08/08/2019\e[0K\r\n\e[0K\r\nLokerse Feesten\e[0K\r\nLokeren\e[0K\r\nBelgium\e[0K\r\n08/11/2019\e[0K\r\n\e[0K\r\nBay Fest\e[0K\r\nIgea Marina\e[0K\r\nItaly\e[0K\r\n08/12/2019\e[0K\r\n\e[0K\r\nPost Tenebras Rock - Rez de l'Usine\e[0K\r\nChatelaine-geneve\e[0K\r\nSwitzerland\e[0K\r\n08/14/2019\e[0K\r\n\e[0K\r\nMOTOCULTOR\e[0K\r\nVannes\e[0K\r\nFrance\e[0K\r\n08/15/2019\e[0K\r\n\e[0K\r\nÉlysée Montmartre\e[0K\r\nParis\e[0K\r\nFrance\e[0K\r\n08/17/2019\e[0K\r\n\e[0K\r\n---logged---\e[0K\e[1G\e[?25h"
+  - delay: 22
+    content: "\e[?25l\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G\e[?25h"
+  - delay: 992
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\e[?25h"
+  - delay: 1443
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 991
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\nspotify-this-song\e[0K\r\n\e[0K\e[?25h"
+  - delay: 68
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 329
+    content: "1 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nJon Lajoie\e[0K\r\n2 Girls 1 Cup Song\e[0K\r\nYou Want Some Of This?\e[0K\e[1G\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\nhttps://p.scdn.co/mp3-preview/95c936846307898c022b657f88d9d82fc448adf0?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 25
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2689
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js do-what-it-says\e[0K\e[?25h"
+  - delay: 7561
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1345
+    content: "---logged---\e[0K\e[?25l\r\n---logged---\e[0K\r\nhttp://www.omdbapi.com/?t=\"The Big Lebowski\"&y=&plot=short&apikey=trilogy\e[0K\r\n\e[0K\e[?25h"
+  - delay: 38
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 39
+    content: "The Big Lebowski\e[0K\e[?25l\r\n1998\e[0K\r\n{ Source: \e[0;32m'Internet Movie Database'\e[0m, Value: \e[0;32m'8.1/10'\e[0m }\e[0K\r\n{ Source: \e[0;32m'Rotten Tomatoes'\e[0m, Value: \e[0;32m'83%'\e[0m }\e[0K\e[1G\e[?25h"
+  - delay: 28
+    content: "\e[?25l\r\nUSA, UK\e[0K\r\nEnglish, German, Hebrew, Spanish\e[0K\r\nJeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists\e[0K\r\nhis bowling buddies to help get it.\e[0K\r\nJeff Bridges, John Goodman, Julianne Moore, Steve Buscemi\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 23
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 3214
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 224
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 1796
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 191
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 151
+    content: "\e[?25l\r\n\e[0K\e[?25h"

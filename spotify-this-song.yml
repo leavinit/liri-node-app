@@ -1,0 +1,213 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 2339
+    content: "\e[0m\e[0K"
+  - delay: 165
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 398
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 1220
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 281
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 170
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 464
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 1640
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnod\e[0m\e[0K\e[?25h"
+  - delay: 215
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mno\e[0m\e[0K\e[?25h"
+  - delay: 783
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 211
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 138
+    content: "\e[73G"
+  - delay: 4041
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 138
+    content: "i\e[0K"
+  - delay: 146
+    content: "r\e[0K"
+  - delay: 473
+    content: "i\e[0K"
+  - delay: 316
+    content: ".\e[0K"
+  - delay: 148
+    content: "j\e[0K"
+  - delay: 251
+    content: "s\e[0K"
+  - delay: 434
+    content: "\e[81G"
+  - delay: 1747
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 466
+    content: "p\e[0K"
+  - delay: 220
+    content: "o\e[0K"
+  - delay: 163
+    content: "t\e[0K"
+  - delay: 172
+    content: "i\e[0K"
+  - delay: 369
+    content: "f\e[0K"
+  - delay: 198
+    content: "y\e[0K"
+  - delay: 370
+    content: "-\e[0K"
+  - delay: 531
+    content: "t\e[0K"
+  - delay: 67
+    content: "h\e[0K"
+  - delay: 187
+    content: "i\e[0K"
+  - delay: 37
+    content: "s\e[0K"
+  - delay: 481
+    content: "-\e[0K"
+  - delay: 411
+    content: "s\e[0K"
+  - delay: 118
+    content: "o\e[0K"
+  - delay: 148
+    content: "n\e[0K"
+  - delay: 148
+    content: "g\e[0K"
+  - delay: 4056
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1507
+    content: "spotify-this-song\e[0K\e[?25l\r\n---NO SONG SELECTED? Really?---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 86
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 408
+    content: "20 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nAll That She Wants\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nDon't Turn Around\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign\e[0K\r\nGreatest Hits\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nHappy Nation\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nWheel of Fortune\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\e[1G\e[?25h"
+  - delay: 53
+    content: "\e[?25l\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nLiving in Danger\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nDancer in a Daydream\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\e[1G\e[?25h"
+  - delay: 59
+    content: "\e[?25l\r\nYoung and Proud\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nWaiting for Magic - Total Remix 7\" Version\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign\e[0K\r\nHappy Nation (U.S. Version) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nVoulez-Vous danser\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nMy Mind - Mindless Mix\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nAll That She Wants - Banghra Version\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nMr Ace - Demo 1991 Bonus Track\e[0K\r\nThe Sign (US Album) [Remastered]\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign\e[0K\r\nThe Sign (The Remixes)\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign - Long Version\e[0K\e[1G\e[?25h"
+  - delay: 26
+    content: "\e[?25l\r\nThe Sign (The Remixes)\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign - Ultimix\e[0K\r\nThe Sign (The Remixes)\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign\e[0K\r\nThe Sign (The Remixes)\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAce of Base\e[0K\r\nThe Sign - The Remix\e[0K\r\nClassic Remixes\e[0K\r\nhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 63
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 32058
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 247
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 554
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 341
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 863
+    content: "\e[?25l\r\n\e[0K\e[?25h"

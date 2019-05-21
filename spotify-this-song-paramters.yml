@@ -1,0 +1,277 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 1034
+    content: "\e[0m\e[0K"
+  - delay: 82
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 153
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 4507
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 91
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 156
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 282
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 620
+    content: "\e[73G"
+  - delay: 2162
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 85
+    content: "i\e[0K"
+  - delay: 162
+    content: "r\e[0K"
+  - delay: 218
+    content: "i\e[0K"
+  - delay: 2970
+    content: ".\e[0K"
+  - delay: 313
+    content: "j\e[0K"
+  - delay: 1312
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\liri.jss\e[0K\e[?25h"
+  - delay: 783
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\liri.js\e[0K\e[?25h"
+  - delay: 528
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\liri.j\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\liri.\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\liri\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\lir\e[0K\e[?25h"
+  - delay: 28
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\li\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\l\e[0K\e[?25h"
+  - delay: 25
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\\\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m\e[0K\e[73G\e[?25h"
+  - delay: 32
+    content: "\e[72G"
+  - delay: 33
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnod\e[0m\e[0K\e[?25h"
+  - delay: 686
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 189
+    content: "\e[73G"
+  - delay: 213
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m .\e[0K\e[?25h"
+  - delay: 374
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m\e[0K\e[73G\e[?25h"
+  - delay: 252
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 99
+    content: "i\e[0K"
+  - delay: 124
+    content: "f\e[0K"
+  - delay: 407
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m li\e[0K\e[?25h"
+  - delay: 91
+    content: "r\e[0K"
+  - delay: 125
+    content: "i\e[0K"
+  - delay: 621
+    content: ".\e[0K"
+  - delay: 194
+    content: "j\e[0K"
+  - delay: 278
+    content: "s\e[0K"
+  - delay: 629
+    content: "\e[81G"
+  - delay: 4276
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 223
+    content: "p\e[0K"
+  - delay: 221
+    content: "o\e[0K"
+  - delay: 182
+    content: "t\e[0K"
+  - delay: 219
+    content: "i\e[0K"
+  - delay: 155
+    content: "f\e[0K"
+  - delay: 219
+    content: "y\e[0K"
+  - delay: 278
+    content: "-\e[0K"
+  - delay: 413
+    content: "th\e[0K"
+  - delay: 221
+    content: "i\e[0K"
+  - delay: 313
+    content: "s\e[0K"
+  - delay: 495
+    content: "-\e[0K"
+  - delay: 591
+    content: "s\e[0K"
+  - delay: 163
+    content: "o\e[0K"
+  - delay: 181
+    content: "n\e[0K"
+  - delay: 124
+    content: "g\e[0K"
+  - delay: 289
+    content: "\e[99G"
+  - delay: 470
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spotify-this-song r\e[0K\e[?25h"
+  - delay: 404
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spotify-this-song\e[0K\e[99G\e[?25h"
+  - delay: 6430
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"\e[0m\e[0K\e[?25h"
+  - delay: 536
+    content: "\e[0;36mM\e[0m\e[0K"
+  - delay: 285
+    content: "\e[0;36mi\e[0m\e[0K"
+  - delay: 376
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 215
+    content: "\e[0;36me\e[0m\e[0K"
+  - delay: 247
+    content: "\e[0;36mr\e[0m\e[0K"
+  - delay: 190
+    content: "\e[0;36ml\e[0m\e[0K"
+  - delay: 247
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 157
+    content: "\e[0;36mu\e[0m\e[0K"
+  - delay: 215
+    content: "\e[0;36me\e[0m\e[0K"
+  - delay: 439
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"Miserlou\e[0m\e[0K\e[?25h"
+  - delay: 315
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"Miserlou\"\e[0m\e[0K\e[?25h"
+  - delay: 439
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 437
+    content: "spotify-this-song\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 202
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 411
+    content: "20 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nDick Dale and his Del-Tones\e[0K\r\nMiserlou\e[0K\r\nSurfer's Choice\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nDick Dale\e[0K\r\nMiserlou\e[0K\r\nKing of the Surf Guitar\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAgent Orange\e[0K\r\nMiserlou\e[0K\r\nLiving In Darkness (30th Anniversary Edition)\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nMiserlou\e[0K\r\nUltra-Surf Presents: Hit The Surf!\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nArthur Lyman\e[0K\r\nMiserlou\e[0K\r\nTaboo: The Exotic Sounds Of Arthur Lyman\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nDick Dale and his Del-Tones\e[0K\r\nMiserlou Twist\e[0K\r\nSurfer's Choice\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThe Trashmen\e[0K\r\nMiserlou\e[0K\r\nTube City! Best of the Trashmen\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAgent Orange\e[0K\r\nMiserlou (Original Posh Boy Recording - Remastered)\e[0K\r\nLiving in Darkness (40th Anniversary Edition)\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThe Lively Ones\e[0K\r\nMiserlou\e[0K\r\nSurf Rider\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPerpetuum Jazzile\e[0K\r\nMiserlou\e[0K\r\nB Side / Both Sides /\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nAgent Orange\e[0K\r\nMiserlou\e[0K\r\nBitchin' Summer\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nCaroline Campbell\e[0K\r\nMiserlou (feat. Tina Guo)\e[0K\r\nMiserlou (feat. Tina Guo)\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nDick Dale\e[0K\r\nMiserlou (Live Santa Monica, CA 7/18/96)\e[0K\r\nLive Santa Monica Pier\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nCarlos & The Bandidos\e[0K\r\nMiserlou\e[0K\r\nThe Good, The Bad and the Bandidos\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nBuck-O-Nine\e[0K\r\nMiserlou\e[0K\r\nWater In My Head\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nMiserlou\e[0K\r\nLegends of the Ukulele 2 : Hawaiian Masters\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThe Wipe Outs\e[0K\r\nMiserlou\e[0K\r\nSurf Songs\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nDick Dale and his Del-Tones\e[0K\r\nMiserlou\e[0K\r\nSingles Collection '61-'65\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nDon Telling's Island Mysteries\e[0K\r\nMiserlou\e[0K\r\nDon Telling's Island Mysteries\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThe Trashmen\e[0K\r\nMiserlou\e[0K\r\nSurfin' Bird\e[0K\r\nhttps://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G\e[?25h"
+  - delay: 3622
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 565
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 179
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 281
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 404
+    content: "\e[?25l\r\n\e[0K\e[?25h"

@@ -58,10 +58,10 @@ function printConcert(feedJson){
         console.log(item.venue.country);
         to_log += (item.venue.country)+os.EOL;
         var temp=moment(item.datetime).format("MM/DD/YYYY");
-        console.log(temp);
+        console.log(temp+os.EOL);
         // console.log(item.datetime);
 
-        to_log += (temp)+os.EOL+os.EOL;
+        to_log += temp+os.EOL+os.EOL;
     });
     // console.log("sending this to log: "+ to_log);
     logger(to_log);

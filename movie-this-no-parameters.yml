@@ -1,0 +1,223 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 2607
+    content: "\e[0m\e[0K"
+  - delay: 2281
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 1371
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 1003
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93ml\e[0m\e[0K"
+  - delay: 31
+    content: "\e[?25h"
+  - delay: 345
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G\e[?25h"
+  - delay: 440
+    content: "\e[69G"
+  - delay: 305
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>  \e[0;33;93md\e[0m\e[0K\e[?25h"
+  - delay: 222
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[69G\e[?25h"
+  - delay: 158
+    content: "\e[68G"
+  - delay: 788
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 90
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 126
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 225
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 164
+    content: "\e[73G"
+  - delay: 215
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 94
+    content: "i\e[0K"
+  - delay: 125
+    content: "r\e[0K"
+  - delay: 132
+    content: "i\e[0K"
+  - delay: 281
+    content: "s\e[0K"
+  - delay: 291
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri\e[0K\e[?25h"
+  - delay: 250
+    content: ".\e[0K"
+  - delay: 189
+    content: "n\e[0K"
+  - delay: 184
+    content: "s\e[0K"
+  - delay: 444
+    content: "\e[81G"
+  - delay: 592
+    content: "\e[80G"
+  - delay: 155
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.n\e[0K\e[?25h"
+  - delay: 181
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.\e[0K\e[?25h"
+  - delay: 244
+    content: "j\e[0K"
+  - delay: 197
+    content: "s\e[0K"
+  - delay: 258
+    content: "\e[81G"
+  - delay: 1233
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js i\e[0K\e[?25h"
+  - delay: 436
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js\e[0K\e[81G\e[?25h"
+  - delay: 3250
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js m\e[0K\e[?25h"
+  - delay: 156
+    content: "o\e[0K"
+  - delay: 213
+    content: "v\e[0K"
+  - delay: 443
+    content: "i\e[0K"
+  - delay: 154
+    content: "e\e[0K"
+  - delay: 121
+    content: "-\e[0K"
+  - delay: 315
+    content: "t\e[0K"
+  - delay: 126
+    content: "h\e[0K"
+  - delay: 156
+    content: "i\e[0K"
+  - delay: 155
+    content: "s\e[0K"
+  - delay: 1960
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 3886
+    content: "---NO MOVIE SELECTED? Really?---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 29
+    content: "http://www.omdbapi.com/?t=Mr. Nobody&y=&plot=short&apikey=trilogy\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 110
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 46
+    content: "Mr. Nobody\e[0K\e[?25l\r\n2009\e[0K\r\n{ Source: \e[0;32m'Internet Movie Database'\e[0m, Value: \e[0;32m'7.8/10'\e[0m }\e[0K\r\n{ Source: \e[0;32m'Rotten Tomatoes'\e[0m, Value: \e[0;32m'67%'\e[0m }\e[0K\r\nBelgium, Germany, Canada, France, USA, UK\e[0K\r\nEnglish, Mohawk\e[0K\r\nA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? \e[0KI\r\nnfinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.\e[0K\r\nJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham\e[0K\r\n\e[0K\e[?25h"
+  - delay: 21
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 184
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 1333
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 188
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 117
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 227
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 7963
+    content: "\e[?25l\r\n\e[0K\e[?25h"

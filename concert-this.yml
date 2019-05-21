@@ -1,0 +1,229 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 10225
+    content: "\e[0m\e[0K"
+  - delay: 4435
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 1086
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 10091
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 112
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 937
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 2048
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 365
+    content: "\e[73G"
+  - delay: 1598
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 122
+    content: "i\e[0K"
+  - delay: 605
+    content: "r\e[0K"
+  - delay: 2254
+    content: "i\e[0K"
+  - delay: 1003
+    content: ".\e[0K"
+  - delay: 195
+    content: "j\e[0K"
+  - delay: 147
+    content: "s\e[0K"
+  - delay: 402
+    content: "\e[81G"
+  - delay: 5588
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js c\e[0K\e[?25h"
+  - delay: 153
+    content: "o\e[0K"
+  - delay: 93
+    content: "n\e[0K"
+  - delay: 141
+    content: "c\e[0K"
+  - delay: 289
+    content: "e\e[0K"
+  - delay: 139
+    content: "r\e[0K"
+  - delay: 186
+    content: "t\e[0K"
+  - delay: 122
+    content: "-\e[0K"
+  - delay: 690
+    content: "t\e[0K"
+  - delay: 41
+    content: "h\e[0K"
+  - delay: 162
+    content: "i\e[0K"
+  - delay: 88
+    content: "s\e[0K"
+  - delay: 317
+    content: "\e[94G"
+  - delay: 456
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js concert-this \e[0;36m\"\e[0m\e[0K\e[?25h"
+  - delay: 849
+    content: "\e[0;36mt\e[0m\e[0K"
+  - delay: 452
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js concert-this \e[0;36m\"\e[0m\e[0K\e[?25h"
+  - delay: 183
+    content: "\e[0;36mT\e[0m\e[0K"
+  - delay: 491
+    content: "\e[0;36me\e[0m\e[0K"
+  - delay: 165
+    content: "\e[0;36mn\e[0m\e[0K"
+  - delay: 480
+    content: "\e[0;36ma\e[0m\e[0K"
+  - delay: 155
+    content: "\e[0;36mc\e[0m\e[0K"
+  - delay: 144
+    content: "\e[0;36mi\e[0m\e[0K"
+  - delay: 76
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 105
+    content: "\e[0;36mu\e[0m\e[0K"
+  - delay: 88
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 194
+    content: "\e[0;36m \e[0m\e[0K"
+  - delay: 318
+    content: "\e[0;36mD\e[0m\e[0K"
+  - delay: 993
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js concert-this \e[0;36m\"Tenacious D\"\e[0m\e[0K\e[?25h"
+  - delay: 1488
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1232
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 255
+    content: "The SSE Arena, Wembley\e[0K\e[?25l\r\nLondon\e[0K\r\nUnited Kingdom\e[0K\r\e[1A\e[?25h"
+  - delay: 88
+    content: "\e[?25l\r\n\r\n06/01/2019\e[0K\r\n\e[0K\r\nThe SSE Arena, Wembley\e[0K\r\nLondon\e[0K\r\nUnited Kingdom\e[0K\r\n06/02/2019\e[0K\r\n\e[0K\r\nRoyal Arena\e[0K\r\nCopenhagen\e[0K\r\nDenmark\e[0K\r\n06/04/2019\e[0K\r\n\e[0K\r\nSpektrum\e[0K\r\nOslo\e[0K\r\nNorway\e[0K\r\n06/05/2019\e[0K\r\n\e[0K\r\nSweden Rock Festival (June 5-8)\e[0K\r\nSölvesborg\e[0K\r\nSweden\e[0K\r\n06/06/2019\e[0K\e[1G\e[?25h"
+  - delay: 41
+    content: "\e[?25l\r\n\e[0K\r\nRock im Park (June 7-9)\e[0K\r\nNuremberg\e[0K\r\nGermany\e[0K\r\n06/08/2019\e[0K\r\n\e[0K\r\nRock Am Ring (June 7-9)\e[0K\r\nNürburg\e[0K\r\nGermany\e[0K\r\n06/09/2019\e[0K\r\n\e[0K\r\nPinkpop Festival (June 8-10)\e[0K\r\nLandgraaf\e[0K\r\nNetherlands\e[0K\r\n06/10/2019\e[0K\r\n\e[0K\r\nRed Rocks Amphitheatre (with the Colorado Symphony)\e[0K\r\nMorrison\e[0K\r\nUnited States\e[0K\r\n07/25/2019\e[0K\r\n\e[0K\r\nStarlight Theater\e[0K\r\nKansas City\e[0K\r\nUnited States\e[0K\r\n07/27/2019\e[0K\r\n\e[0K\r\nPinewood Bowl Theater\e[0K\e[1G\e[?25h"
+  - delay: 47
+    content: "\e[?25l\r\nLincoln\e[0K\r\nUnited States\e[0K\r\n07/28/2019\e[0K\r\n\e[0K\r\nPalace Theatre\e[0K\r\nSaint Paul\e[0K\r\nUnited States\e[0K\r\n07/30/2019\e[0K\r\n\e[0K\r\nPalace Theatre\e[0K\r\nSaint Paul\e[0K\r\nUnited States\e[0K\r\n07/31/2019\e[0K\r\n\e[0K\r\nStifel Theatre\e[0K\r\nSt. Louis\e[0K\r\nUnited States\e[0K\r\n08/02/2019\e[0K\r\n\e[0K\r\nLollapalooza\e[0K\r\nChicago\e[0K\r\nUnited States\e[0K\r\n08/03/2019\e[0K\r\n\e[0K\r\nAscend Amphitheater\e[0K\r\nNashville\e[0K\r\nUnited States\e[0K\r\n08/04/2019\e[0K\r\n\e[0K\r\nCoca Cola Roxy Theatre\e[0K\r\nAtlanta\e[0K\r\nUnited States\e[0K\r\n08/05/2019\e[0K\e[1G\e[?25h"
+  - delay: 44
+    content: "\e[?25l\r\n\e[0K\r\nRock In Rio\e[0K\r\nRio De Janeiro\e[0K\r\nBrazil\e[0K\r\n09/28/2019\e[0K\r\n\e[0K\r\nEl Campin Stadium\e[0K\r\nBogotá\e[0K\r\nColombia\e[0K\r\n10/01/2019\e[0K\r\n\e[0K\r\nThe Fillmore\e[0K\r\nNew Orleans\e[0K\r\nUnited States\e[0K\r\n10/15/2019\e[0K\r\n\e[0K\r\nRevention Music Center\e[0K\r\nHouston\e[0K\r\nUnited States\e[0K\r\n10/16/2019\e[0K\r\n\e[0K\r\nACL Live\e[0K\r\nAustin\e[0K\r\nUnited States\e[0K\r\n10/17/2019\e[0K\r\n\e[0K\r\nThe Bomb Factory\e[0K\r\nDallas\e[0K\r\nUnited States\e[0K\r\n10/19/2019\e[0K\r\n\e[0K\r\nThe Criterion\e[0K\r\nOklahoma City\e[0K\r\nUnited States\e[0K\r\n10/20/2019\e[0K\r\n\e[0K\r\nBrady Theater\e[0K\e[1G\e[?25h"
+  - delay: 34
+    content: "\e[?25l\r\nTulsa\e[0K\r\nUnited States\e[0K\r\n10/21/2019\e[0K\r\n\e[0K\r\nComerica Theatre\e[0K\r\nPhoenix\e[0K\r\nUnited States\e[0K\r\n10/23/2019\e[0K\r\n\e[0K\r\nThe Masonic\e[0K\r\nSan Francisco\e[0K\r\nUnited States\e[0K\r\n10/25/2019\e[0K\r\n\e[0K\r\nGrand Theatre\e[0K\r\nReno\e[0K\r\nUnited States\e[0K\r\n10/26/2019\e[0K\r\n\e[0K\r\nArlington Theatre\e[0K\r\nSanta Barbara\e[0K\r\nUnited States\e[0K\r\n10/27/2019\e[0K\r\n\e[0K\r\nThe Wiltern\e[0K\r\nLos Angeles\e[0K\r\nUnited States\e[0K\r\n10/29/2019\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 339
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 32183
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 575
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 127
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 226
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 703
+    content: "\e[?25l\r\n\e[0K\e[?25h"

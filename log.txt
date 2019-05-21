@@ -1471,3 +1471,1274 @@ Classic Remixes
 https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=8f68c60e40ee44ffa6f9a50eac808531
 
 
+Sat, 18 May 2019 18:36:51 GMT Command: concert-this Tenacious D
+Sat, 18 May 2019 18:36:52 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 19:03:58 GMT Command: concert-this Tenacious D
+Sat, 18 May 2019 19:03:59 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 19:11:47 GMT Command: concert-this tenacious d
+Sat, 18 May 2019 19:11:48 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 19:14:11 GMT Command: concert-this tenacious d
+Sat, 18 May 2019 19:14:12 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 19:17:44 GMT Command: concert-this Tenacious D
+Sat, 18 May 2019 19:17:44 GMT Data Returned:
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/01/2019
+
+The SSE Arena, Wembley
+London, United Kingdom
+06/02/2019
+
+Royal Arena
+Copenhagen, Denmark
+06/04/2019
+
+Spektrum
+Oslo, Norway
+06/05/2019
+
+Sweden Rock Festival (June 5-8)
+Sölvesborg, Sweden
+06/06/2019
+
+Rock im Park (June 7-9)
+Nuremberg, Germany
+06/08/2019
+
+Rock Am Ring (June 7-9)
+Nürburg, Germany
+06/09/2019
+
+Pinkpop Festival (June 8-10)
+Landgraaf, Netherlands
+06/10/2019
+
+Red Rocks Amphitheatre (with the Colorado Symphony)
+Morrison, United States
+07/25/2019
+
+Starlight Theater
+Kansas City, United States
+07/27/2019
+
+Pinewood Bowl Theater
+Lincoln, United States
+07/28/2019
+
+Palace Theatre
+Saint Paul, United States
+07/30/2019
+
+Palace Theatre
+Saint Paul, United States
+07/31/2019
+
+Stifel Theatre
+St. Louis, United States
+08/02/2019
+
+Lollapalooza
+Chicago, United States
+08/03/2019
+
+Ascend Amphitheater
+Nashville, United States
+08/04/2019
+
+Coca Cola Roxy Theatre
+Atlanta, United States
+08/05/2019
+
+Rock In Rio
+Rio De Janeiro, Brazil
+09/28/2019
+
+El Campin Stadium
+Bogotá, Colombia
+10/01/2019
+
+The Fillmore
+New Orleans, United States
+10/15/2019
+
+Revention Music Center
+Houston, United States
+10/16/2019
+
+ACL Live
+Austin, United States
+10/17/2019
+
+The Bomb Factory
+Dallas, United States
+10/19/2019
+
+The Criterion
+Oklahoma City, United States
+10/20/2019
+
+Brady Theater
+Tulsa, United States
+10/21/2019
+
+Comerica Theatre
+Phoenix, United States
+10/23/2019
+
+The Masonic
+San Francisco, United States
+10/25/2019
+
+Grand Theatre
+Reno, United States
+10/26/2019
+
+Arlington Theatre
+Santa Barbara, United States
+10/27/2019
+
+The Wiltern
+Los Angeles, United States
+10/29/2019
+
+
+Sat, 18 May 2019 19:28:12 GMT Command: spotify-this-song The Sign Ace of Base
+Sat, 18 May 2019 19:28:13 GMT Data Returned:
+
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Don't Turn Around
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Greatest Hits
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Happy Nation
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Wheel of Fortune
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Living in Danger
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Dancer in a Daydream
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Young and Proud
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Waiting for Magic - Total Remix 7" Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+Happy Nation (U.S. Version) [Remastered]
+https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Voulez-Vous danser
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+My Mind - Mindless Mix
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+All That She Wants - Banghra Version
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+Mr Ace - Demo 1991 Bonus Track
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Long Version
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - Ultimix
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign
+The Sign (The Remixes)
+https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Ace of Base
+The Sign - The Remix
+Classic Remixes
+https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Tue, 21 May 2019 01:51:11 GMT Command: spotify-this-song The Decline
+Tue, 21 May 2019 01:51:12 GMT Data Returned:
+
+Stars Of The Lid
+A Meaningful Moment Through a Meaning(less) Process
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/aca4f3582ffca7f07fa85c373f4ad5c3cef798c9?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Articulate Silences, Pt. 1
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/1ac9f4394df081e6c1ccb547fd5d6c32e17a1f84?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+The Evil That Never Arrived
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/2268d8e78c10b3dc78388207ae5481867903f952?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Dungtitled (In a Major)
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/9d75fac6e9a537a087c6a36215a7501738c5f938?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Don't Bother They're Here
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/dd2639a3f2b75961775c035ecdaed146e486e803?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+NOFX
+The Decline
+The Decline
+https://p.scdn.co/mp3-preview/d4d847ef0e6124d823854466c8bb4c04c6a6340f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Articulate Silences, Pt. 2
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/a5c16c16902c196d1a6f04d90320dde6f96e7627?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+After The Burial
+A Steady Decline
+Forging a Future Self
+https://p.scdn.co/mp3-preview/6b0d04da13babdd4c1e741a3cae43c9a973b1d16?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Even If You're Never Awake
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/8b5bd2ba126d43274a44ba72b47523554f658219?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Words Like Bullets
+I Decline to Accept the End of Man
+Words Like Bullets, Vol. 1
+https://p.scdn.co/mp3-preview/21bb646e7fb2de51b7f4a5c667bdd36b6b640f6f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Suigeneris
+Decline (feat. OHNO)
+The Cheat Code
+https://p.scdn.co/mp3-preview/8379d7ed3535e4741837459499dc5dc24b0f5451?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Even (Out) +
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/d3e6f46362d3b6ab79dc45e3b3255e53fa8df0db?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Extortionist
+1208
+The Decline
+https://p.scdn.co/mp3-preview/eb67809fb6898aaf649be2050bc627d47ac2c77e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+After The Burial
+A Steady Decline
+This Life Is All We Have
+https://p.scdn.co/mp3-preview/61b80c1f7bc1032e53a4f08f9d9c41b9e62c9ea0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+The Daughters of Quiet Minds
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/ba1a6d29d4aa5faef91823a74ec932aa480aab1e?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Apreludes (In C Sharp Major)
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/9b3f93257684706732c46e35c73f271d65721a45?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Dopamine Clouds Over Craven Cottage
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/200211ba5ca80950036f649db1fa066fe176aa91?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Stars Of The Lid
+Another Ballad for Heavy Lids
+And Their Refinement of the Decline
+https://p.scdn.co/mp3-preview/b9ea45318f5b48dec35af26ecba29b4b56b3493f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Sun Kil Moon
+A Dream of Winter
+30 Seconds to the Decline of Planet Earth
+https://p.scdn.co/mp3-preview/e697b9e90f4a9dbdf941ad5ced1d6cb6f7020406?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jeremiah Jae
+Anakin's Fall
+The Decline of Black Anakin
+https://p.scdn.co/mp3-preview/75ece44a0bd83e6d0c6893b47302011f9448d145?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Tue, 21 May 2019 01:53:22 GMT Command: spotify-this-song Miserlou
+Tue, 21 May 2019 01:53:22 GMT Data Returned:
+
+Dick Dale and his Del-Tones
+Miserlou
+Surfer's Choice
+https://p.scdn.co/mp3-preview/aaf362db9492b8a11e60d5f3b3556d86d67c4445?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Dick Dale
+Miserlou
+King of the Surf Guitar
+https://p.scdn.co/mp3-preview/164da8dde44a4488301801ef0befe0d614b0296d?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Agent Orange
+Miserlou
+Living In Darkness (30th Anniversary Edition)
+https://p.scdn.co/mp3-preview/c5ffd20378eac00b472a11ab0d06563e85fc2345?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Miserlou
+Ultra-Surf Presents: Hit The Surf!
+null
+
+Arthur Lyman
+Miserlou
+Taboo: The Exotic Sounds Of Arthur Lyman
+https://p.scdn.co/mp3-preview/ba71f8d07f4e54db0bf10c65e856e77aad8aed7f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Dick Dale and his Del-Tones
+Miserlou Twist
+Surfer's Choice
+https://p.scdn.co/mp3-preview/c13e27c70a6cf79c1a3866bbb7a5d17fe8eae8b2?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+The Trashmen
+Miserlou
+Tube City! Best of the Trashmen
+https://p.scdn.co/mp3-preview/c387fef24568f5f57286eebfcaaae7c27458fc43?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Agent Orange
+Miserlou (Original Posh Boy Recording - Remastered)
+Living in Darkness (40th Anniversary Edition)
+https://p.scdn.co/mp3-preview/c3aaa1d73b541eae291385b0592ace741aefeec5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+The Lively Ones
+Miserlou
+Surf Rider
+https://p.scdn.co/mp3-preview/425bd48075b6fb190402098f3b7ad4e82c233955?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Perpetuum Jazzile
+Miserlou
+B Side / Both Sides /
+https://p.scdn.co/mp3-preview/a36d196827ef59732033ed4a082f6273e13e003c?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Agent Orange
+Miserlou
+Bitchin' Summer
+https://p.scdn.co/mp3-preview/c3aaa1d73b541eae291385b0592ace741aefeec5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Caroline Campbell
+Miserlou (feat. Tina Guo)
+Miserlou (feat. Tina Guo)
+https://p.scdn.co/mp3-preview/d07be46e4395d3e27bcd377c09e1715c82e59da9?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Dick Dale
+Miserlou (Live Santa Monica, CA 7/18/96)
+Live Santa Monica Pier
+https://p.scdn.co/mp3-preview/478dbba8d32597a27aee78be81376e230b13d4e1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Carlos & The Bandidos
+Miserlou
+The Good, The Bad and the Bandidos
+https://p.scdn.co/mp3-preview/45d46bf84928391628202214dad09678adced6b8?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Buck-O-Nine
+Miserlou
+Water In My Head
+https://p.scdn.co/mp3-preview/24e04079286e9ad019b8586096ec5fe8d61544c3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+Miserlou
+Legends of the Ukulele 2 : Hawaiian Masters
+https://p.scdn.co/mp3-preview/65dfbf7d9321b80c95c899f0164f8627f3999369?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+The Wipe Outs
+Miserlou
+Surf Songs
+https://p.scdn.co/mp3-preview/ba0859407f088cae71dc65577332d1f71caa5c79?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Dick Dale and his Del-Tones
+Miserlou
+Singles Collection '61-'65
+https://p.scdn.co/mp3-preview/196be810b9fda1bd51b8f608195b3d8f8a8059dd?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Don Telling's Island Mysteries
+Miserlou
+Don Telling's Island Mysteries
+https://p.scdn.co/mp3-preview/27c2e3aa1938ba250b4781b2260dc36740dc8123?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+The Trashmen
+Miserlou
+Surfin' Bird
+https://p.scdn.co/mp3-preview/bbc5f574ae61eb5d0b365930b91c8499200ccb97?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Tue, 21 May 2019 02:01:08 GMT Command: movie-this The Goonies
+Tue, 21 May 2019 02:01:08 GMT Data Returned:
+
+The Goonies
+1985
+{"Source":"Internet Movie Database","Value":"7.8/10"}
+{"Source":"Rotten Tomatoes","Value":"71%"}
+USA
+English, Spanish, Cantonese, Italian
+A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.
+Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+
+Tue, 21 May 2019 02:02:35 GMT Command: movie-this The Goonies
+Tue, 21 May 2019 02:02:35 GMT Data Returned:
+
+The Goonies
+1985
+{"Source":"Internet Movie Database","Value":"7.8/10"}
+{"Source":"Rotten Tomatoes","Value":"71%"}
+USA
+English, Spanish, Cantonese, Italian
+A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.
+Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+
+Tue, 21 May 2019 03:54:31 GMT Command: movie-this Mr. Nobody
+Tue, 21 May 2019 03:54:31 GMT Data Returned:
+
+Mr. Nobody
+2009
+{"Source":"Internet Movie Database","Value":"7.8/10"}
+{"Source":"Rotten Tomatoes","Value":"67%"}
+Belgium, Germany, Canada, France, USA, UK
+English, Mohawk
+A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Tue, 21 May 2019 04:19:04 GMT Command: movie-this Mr. Nobody
+Tue, 21 May 2019 04:19:04 GMT Data Returned:
+
+Mr. Nobody
+2009
+{"Source":"Internet Movie Database","Value":"7.8/10"}
+{"Source":"Rotten Tomatoes","Value":"67%"}
+Belgium, Germany, Canada, France, USA, UK
+English, Mohawk
+A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Tue, 21 May 2019 04:25:48 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:25:48 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:25:48 GMT Command: movie-this "The Big Lebowski"
+Tue, 21 May 2019 04:25:48 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+
+Tue, 21 May 2019 04:25:56 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:25:56 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:25:56 GMT Command: spotify-this-song "I Want it That Way"
+Tue, 21 May 2019 04:25:57 GMT Data Returned:
+
+Backstreet Boys
+I Want It That Way
+The Hits--Chapter One
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way
+Millennium
+https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Backstreet Boys
+I Want It That Way - Reimagined
+I Want It That Way (Reimagined)
+https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Anthem Lights
+I Want It That Way
+Covers Part IV
+https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Mick Jensen
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Jess and Gabriel
+I Want It That Way
+Under the Covers, Vol. 3
+https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Tyler and Mark
+I Want It That Way
+Beautiful Dreams
+https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Poodle Hat
+https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Various Artists
+I Want It That Way
+90 Sweet 90s Hits!
+https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+NKOTBSB
+I Want It That Way
+NKOTBSB
+https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Steel Panther
+I Want It That Way
+I Want It That Way
+null
+
+Glee Cast
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Boyce Avenue
+I Want It That Way
+Cover Sessions, Vol. 2
+https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Punk Goes
+I Want It That Way
+Punk Goes Pop
+null
+
+Manuel Costa
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scary Pockets
+I Want It That Way
+Nu Funk
+https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Yshop
+I Want It That Way
+I Want It That Way
+https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+Selfies on Kodachrome
+https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+Love Hits On Piano
+I Want It That Way
+Timeless Love
+https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+The Essential "Weird Al" Yankovic
+https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Tue, 21 May 2019 04:26:04 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:26:04 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:26:04 GMT Command: concert-this "NOFX"
+Tue, 21 May 2019 04:26:05 GMT Data Returned:
+
+Iradier Arena
+Vitoria-gasteiz, Spain
+05/18/2019
+
+Melkweg
+Amsterdam, Netherlands
+05/22/2019
+
+Temple Newsam House
+Leeds, United Kingdom
+05/25/2019
+
+Hatfield House
+Hatfield, United Kingdom
+05/26/2019
+
+Legend Valley
+Thornville, United States
+06/02/2019
+
+Edmonton Expo Centre
+Edmonton, Canada
+07/06/2019
+
+PNE Amphitheatre
+Vancouver, Canada
+07/13/2019
+
+Festival Des Bières Du Monde
+Chicoutimi, Canada
+07/20/2019
+
+Shoreline Amphitheatre
+Mountain View, United States
+07/21/2019
+
+Tsunami Xixón 2019
+Gijón, Spain
+08/02/2019
+
+Punk Rock Holiday
+Tolmin, Slovenia
+08/08/2019
+
+Lokerse Feesten
+Lokeren, Belgium
+08/11/2019
+
+Bay Fest
+Igea Marina, Italy
+08/12/2019
+
+Post Tenebras Rock - Rez de l'Usine
+Chatelaine-geneve, Switzerland
+08/14/2019
+
+MOTOCULTOR
+Vannes, France
+08/15/2019
+
+Élysée Montmartre
+Paris, France
+08/17/2019
+
+
+Tue, 21 May 2019 04:26:10 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:26:10 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:26:10 GMT Command: concert-this "NOFX"
+Tue, 21 May 2019 04:26:10 GMT Data Returned:
+
+Iradier Arena
+Vitoria-gasteiz, Spain
+05/18/2019
+
+Melkweg
+Amsterdam, Netherlands
+05/22/2019
+
+Temple Newsam House
+Leeds, United Kingdom
+05/25/2019
+
+Hatfield House
+Hatfield, United Kingdom
+05/26/2019
+
+Legend Valley
+Thornville, United States
+06/02/2019
+
+Edmonton Expo Centre
+Edmonton, Canada
+07/06/2019
+
+PNE Amphitheatre
+Vancouver, Canada
+07/13/2019
+
+Festival Des Bières Du Monde
+Chicoutimi, Canada
+07/20/2019
+
+Shoreline Amphitheatre
+Mountain View, United States
+07/21/2019
+
+Tsunami Xixón 2019
+Gijón, Spain
+08/02/2019
+
+Punk Rock Holiday
+Tolmin, Slovenia
+08/08/2019
+
+Lokerse Feesten
+Lokeren, Belgium
+08/11/2019
+
+Bay Fest
+Igea Marina, Italy
+08/12/2019
+
+Post Tenebras Rock - Rez de l'Usine
+Chatelaine-geneve, Switzerland
+08/14/2019
+
+MOTOCULTOR
+Vannes, France
+08/15/2019
+
+Élysée Montmartre
+Paris, France
+08/17/2019
+
+
+Tue, 21 May 2019 04:26:14 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:26:14 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:26:14 GMT Command: spotify-this-song "2 Girls One Cup Song"
+Tue, 21 May 2019 04:26:14 GMT Data Returned:
+
+Jon Lajoie
+2 Girls 1 Cup Song
+You Want Some Of This?
+https://p.scdn.co/mp3-preview/95c936846307898c022b657f88d9d82fc448adf0?cid=8f68c60e40ee44ffa6f9a50eac808531
+
+
+Tue, 21 May 2019 04:26:26 GMT Command: do-what-it-says 
+Tue, 21 May 2019 04:26:26 GMT ---Next Command Generated From random.txt---
+
+Tue, 21 May 2019 04:26:26 GMT Command: movie-this "The Big Lebowski"
+Tue, 21 May 2019 04:26:26 GMT Data Returned:
+
+The Big Lebowski
+1998
+{"Source":"Internet Movie Database","Value":"8.1/10"}
+{"Source":"Rotten Tomatoes","Value":"83%"}
+USA, UK
+English, German, Hebrew, Spanish
+Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+

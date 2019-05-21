@@ -1,0 +1,183 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 9871
+    content: "\e[0m\e[0K"
+  - delay: 3613
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 3500
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 2716
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnodeno\e[0m\e[0K\e[?25h"
+  - delay: 1415
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnoden\e[0m\e[0K\e[?25h"
+  - delay: 126
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m\e[0K\e[?25h"
+  - delay: 817
+    content: "\e[73G"
+  - delay: 940
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 655
+    content: "i\e[0K"
+  - delay: 180
+    content: "r\e[0K"
+  - delay: 227
+    content: "i\e[0K"
+  - delay: 810
+    content: ".\e[0K"
+  - delay: 251
+    content: "j\e[0K"
+  - delay: 185
+    content: "s\e[0K"
+  - delay: 276
+    content: "\e[81G"
+  - delay: 2726
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js m\e[0K\e[?25h"
+  - delay: 125
+    content: "o\e[0K"
+  - delay: 189
+    content: "v\e[0K"
+  - delay: 95
+    content: "i\e[0K"
+  - delay: 117
+    content: "e\e[0K"
+  - delay: 538
+    content: "-\e[0K"
+  - delay: 625
+    content: "t\e[0K"
+  - delay: 157
+    content: "h\e[0K"
+  - delay: 54
+    content: "i\e[0K"
+  - delay: 188
+    content: "s\e[0K"
+  - delay: 468
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 5385
+    content: "---NO MOVIE SELECTED? Really?---\e[0K\e[?25l\r\nhttp://www.omdbapi.com/?t=Mr. Nobody&y=&plot=short&apikey=trilogy\e[0K\r\n\e[0K\e[?25h"
+  - delay: 126
+    content: "---logged---\e[0K\e[?25l\r\nMr. Nobody\e[0K\r\n2009\e[0K\r\n\e[0K\e[?25h"
+  - delay: 32
+    content: "{ Source: \e[0;32m'Internet Movie Database'\e[0m, Value: \e[0;32m'7.8/10'\e[0m }\e[0K\e[?25l\r\n{ Source: \e[0;32m'Rotten Tomatoes'\e[0m, Value: \e[0;32m'67%'\e[0m }\e[0K\r\nBelgium, Germany, Canada, France, USA, UK\e[0K\r\nEnglish, Mohawk\e[0K\r\nA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? \e[0KI\r\nnfinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.\e[0K\r\nJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 465
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 6093
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 251
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 148
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 259
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 310
+    content: "\e[?25l\r\n\e[0K\e[?25h"
