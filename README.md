@@ -22,6 +22,12 @@ https://terminalizer.com/view/f72581731005
 Do-what-it-says functionality, random command loaded from random.txt
 https://terminalizer.com/view/400d3c651007
 
+Log.txt demo:
+https://terminalizer.com/view/4036bc2d1009
+
+Github portfolio:
+https://github.com/leavinit
+
 
 
 

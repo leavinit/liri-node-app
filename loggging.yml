@@ -1,0 +1,471 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\Adam\Documents\codingBootcamp\homeworks\liri-node-app
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 2213
+    content: "\e[0m\e[0K"
+  - delay: 161
+    content: "Windows PowerShell\e[0K\e[?25l\r\nCopyright (C) Microsoft Corporation. All rights reserved.\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\r\n\e[0K\r\n\e[0K\e[?25h"
+  - delay: 226
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 3137
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mn\e[0m\e[0K\e[?25h"
+  - delay: 96
+    content: "\e[0;33;93mo\e[0m\e[0K"
+  - delay: 181
+    content: "\e[0;33;93md\e[0m\e[0K"
+  - delay: 190
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 226
+    content: "\e[73G"
+  - delay: 554
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m l\e[0K\e[?25h"
+  - delay: 562
+    content: "i\e[0K"
+  - delay: 132
+    content: "r\e[0K"
+  - delay: 627
+    content: "i\e[0K"
+  - delay: 246
+    content: ".\e[0K"
+  - delay: 315
+    content: "j\e[0K"
+  - delay: 372
+    content: "s\e[0K"
+  - delay: 156
+    content: "\e[81G"
+  - delay: 1467
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js s\e[0K\e[?25h"
+  - delay: 103
+    content: "p\e[0K"
+  - delay: 178
+    content: "o\e[0K"
+  - delay: 134
+    content: "t\e[0K"
+  - delay: 177
+    content: "i\e[0K"
+  - delay: 166
+    content: "f\e[0K"
+  - delay: 554
+    content: "y\e[0K"
+  - delay: 626
+    content: "-\e[0K"
+  - delay: 410
+    content: "t\e[0K"
+  - delay: 64
+    content: "h\e[0K"
+  - delay: 152
+    content: "i\e[0K"
+  - delay: 89
+    content: "s\e[0K"
+  - delay: 383
+    content: "-\e[0K"
+  - delay: 344
+    content: "s\e[0K"
+  - delay: 59
+    content: "o\e[0K"
+  - delay: 214
+    content: "n\e[0K"
+  - delay: 227
+    content: "g\e[0K"
+  - delay: 2095
+    content: "\e[99G"
+  - delay: 3689
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app\e[0;31;91m> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"\e[0m\e[0K\e[?25h"
+  - delay: 4305
+    content: "\e[0;36mB\e[0m\e[0K"
+  - delay: 602
+    content: "\e[0;36mi\e[0m\e[0K"
+  - delay: 212
+    content: "\e[0;36mr\e[0m\e[0K"
+  - delay: 537
+    content: "\e[0;36md\e[0m\e[0K"
+  - delay: 434
+    content: "\e[0;36mh\e[0m\e[0K"
+  - delay: 338
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 163
+    content: "\e[0;36mu\e[0m\e[0K"
+  - delay: 180
+    content: "\e[0;36ms\e[0m\e[0K"
+  - delay: 345
+    content: "\e[0;36me\e[0m\e[0K"
+  - delay: 566
+    content: "\e[0;36m \e[0m\e[0K"
+  - delay: 312
+    content: "\e[0;36mI\e[0m\e[0K"
+  - delay: 287
+    content: "\e[0;36mn\e[0m\e[0K"
+  - delay: 242
+    content: "\e[0;36m \e[0m\e[0K"
+  - delay: 379
+    content: "\e[0;36mY\e[0m\e[0K"
+  - delay: 246
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 126
+    content: "\e[0;36mu\e[0m\e[0K"
+  - delay: 191
+    content: "\e[0;36mr\e[0m\e[0K"
+  - delay: 155
+    content: "\e[0;36m \e[0m\e[0K"
+  - delay: 348
+    content: "\e[0;36mS\e[0m\e[0K"
+  - delay: 148
+    content: "\e[0;36mo\e[0m\e[0K"
+  - delay: 68
+    content: "\e[0;36m\e[0Ku\e[?25l\r\n\e[0m\e[0K\e[?25h"
+  - delay: 214
+    content: "\e[0;36ml\e[0m\e[0K"
+  - delay: 563
+    content: "\e[?25l\r\e[1APS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mnode\e[0m liri.js spotify-this-song \e[0;36m\"Birdhouse In Your So\e[0Ku\r\nl\"\e[0m\e[0K\e[?25h"
+  - delay: 879
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 1034
+    content: "spotify-this-song\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 59
+    content: "---logged---\e[0K\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 331
+    content: "20 tracks found.\e[0K\e[?25l\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nFlood\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nSevere Tire Damage\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVitamin String Quartet\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nGeek Wedding Collection\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nJim Dooley\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nPushing Daisies (Original Television Soundtrack)\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\e[1G\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r\nBirdhouse In Your Soul\e[0K\r\nSummer Hits of the '90s\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nOldies 80's\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse in Your Soul\e[0K\r\n90's Oldies - Rock\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nPhil Henry\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nAberdeen\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\n80s Indie\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 56
+    content: "\e[?25l\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nSummer Pop\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nAlternative Pop\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nRadio 80's\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\n1989\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nKiev cuando nieva\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nParece Doble\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\n90s Rock\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\n80's Pop Record Box\e[0K\e[1G\e[?25h"
+  - delay: 34
+    content: "\e[?25l\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nIndie Cocktail\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nTwo of a Kind\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nSing Me Your Story\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nEarly Indie\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nMonday Mixtape\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\n\e[0K\e[?25h"
+  - delay: 72
+    content: "PS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[68G"
+  - delay: 8512
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93ml\e[0m\e[0K\e[?25h"
+  - delay: 136
+    content: "\e[0;33;93me\e[0m\e[0K"
+  - delay: 183
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 182
+    content: "\e[0;33;93ms\e[0m\e[0K"
+  - delay: 99
+    content: "\e[73G"
+  - delay: 1237
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m l\e[0K\e[?25h"
+  - delay: 186
+    content: "o\e[0K"
+  - delay: 93
+    content: "g\e[0K"
+  - delay: 408
+    content: ".\e[0K"
+  - delay: 278
+    content: "t\e[0K"
+  - delay: 566
+    content: "x\e[0K"
+  - delay: 295
+    content: "t\e[0K"
+  - delay: 155
+    content: "\e[?25l\r\n\e[0K\e[?25h"
+  - delay: 123
+    content: "\e[0m\e[1;1H\e[2J\e[0m\e[0K"
+  - delay: 16
+    content: "Tue, 21 May 2019 04:48:43 GMT Command: spotify-this-song Birdhouse In Your Soul\e[0K\e[?25l\r\nTue, 21 May 2019 04:48:44 GMT Data Returned:\e[0K\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nFlood\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nSevere Tire Damage\e[0K\r\nhttps://p.scdn.co/mp3-preview/0f81b387d53ef82428675fe37b659e4de74855d2?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVitamin String Quartet\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nGeek Wedding Collection\e[0K\r\nhttps://p.scdn.co/mp3-preview/aed09d462d901f272b0b4a277d9887f45d6e3012?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nJim Dooley\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nPushing Daisies (Original Television Soundtrack)\e[0K\r\nnull\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nSummer Hits of the '90s\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\n\e[0;30;47mlog.txt\e[0m\e[0K\e[?25h"
+  - delay: 2379
+    content: "\e[?25l\r:\e[0K\e[?25h"
+  - delay: 3496
+    content: "\e[?25l\rset mark:\e[0K\e[11G\e[?25h"
+  - delay: 326
+    content: "\e[?25l\rset mark: ...skipping...\e[0K\r\nTue, 21 May 2019 04:48:43 GMT Command: spotify-this-song Birdhouse In Your Soul\e[0K\r\nTue, 21 May 2019 04:48:44 GMT Data Returned:\e[0K\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nFlood\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nThey Might Be Giants\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nSevere Tire Damage\e[0K\r\nhttps://p.scdn.co/mp3-preview/0f81b387d53ef82428675fe37b659e4de74855d2?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVitamin String Quartet\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\r\nBirdhouse in Your Soul\e[0K\r\nGeek Wedding Collection\e[0K\r\nhttps://p.scdn.co/mp3-preview/aed09d462d901f272b0b4a277d9887f45d6e3012?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nJim Dooley\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nPushing Daisies (Original Television Soundtrack)\e[0K\r\nnull\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nSummer Hits of the '90s\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\r\n\e[0K\r\nVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 1697
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 1126
+    content: "\e[?25l\rOldies 80's\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 750
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 500
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 24
+    content: "\e[?25l\rBirdhouse in Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r90's Oldies - Rock\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rPhil Henry\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\rBirdhouse in Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rAberdeen\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 19
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/9777ff5b7c3905fce4edc1abe95cc194108e6715?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r\e[0K\r\nVarious Artists\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 26
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\r80s Indie\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rSummer Pop\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 26
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\rAlternative Pop\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 28
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 44
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 18
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 36
+    content: "\e[?25l\rRadio 80's\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 19
+    content: "\e[?25l\rVarious Artists\e[0K\e[1G\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r\nBirdhouse In Your Soul\e[0K\e[1G\e[?25h"
+  - delay: 30
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 35
+    content: "\e[?25l\r1989\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\r\e[0K\r\nKiev cuando nieva\e[0K\e[2G\e[?25h"
+  - delay: 27
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rBirdhouse in Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\rParece Doble\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/4b31facd8c679203868be15790017e0d1f0c01c2?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r90s Rock\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 25
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 41
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 21
+    content: "\e[?25l\r80's Pop Record Box\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 36
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 32
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 37
+    content: "\e[?25l\rIndie Cocktail\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 29
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 24
+    content: "\e[?25l\r\e[0K\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\nTwo of a Kind\e[0K\e[1G\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 36
+    content: "\e[?25l\rBirdhouse in Your Soul\e[0K\r\nSing Me Your Story\e[0K\e[1G\e[?25h"
+  - delay: 33
+    content: "\e[?25l\r\n:\e[0K\e[?25h"
+  - delay: 27
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/abba40162b8e4b6c514b82561cfe0dd480d2f61f?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rEarly Indie\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 27
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 36
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\rVarious Artists\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 30
+    content: "\e[?25l\rBirdhouse In Your Soul\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 34
+    content: "\e[?25l\rMonday Mixtape\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 28
+    content: "\e[?25l\rhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 31
+    content: "\e[?25l\r\e[0K\r\n:\e[0K\e[?25h"
+  - delay: 23
+    content: "\e[?25l\r\e[0K\r\n\e[0;30;47m(END)\e[0m\e[0K\e[?25h"
+  - delay: 250
+    content: "\e[?25l\r\e[0K\e[6G\e[?25h"
+  - delay: 64
+    content: "\e[?25l\r\e[0;30;47m(END)\e[0m\e[0K\e[?25h"
+  - delay: 66
+    content: "\e[?25l\r\e[0K\e[6G\e[?25h"
+  - delay: 29
+    content: "\e[?25l\r\e[0;30;47m(END)\e[0m\e[0K\e[?25h"
+  - delay: 362
+    content: "\e[?25l\r\e[0K\e[6G\e[?25h"
+  - delay: 27
+    content: "\e[?25l\r\e[0;30;47m(END)\e[0m\e[0K\e[?25h"
+  - delay: 1264
+    content: "\e[0m\e[1;1H\e[2J\e[?25l\e[0mhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\n80's Pop Record Box\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nIndie Cocktail\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nTwo of a Kind\e[0K\r\nBirdhouse in Your Soul\e[0K\r\nSing Me Your Story\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nEarly Indie\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\nVarious Artists\e[0K\r\nBirdhouse In Your Soul\e[0K\r\nMonday Mixtape\e[0K\r\nhttps://p.scdn.co/mp3-preview/e1e68bbd3c13317b0f7f58fd3181feed4720c7cf?cid=8f68c60e40ee44ffa6f9a50eac808531\e[0K\r\n\e[0K\r\n---logged---\e[0K\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93mless\e[0m log.txt\e[0K\r\e[28A\e[?25h"
+  - delay: 14
+    content: "\e[?25l\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app>\e[0K\e[1G\e[?25h"
+  - delay: 39
+    content: "\e[68G"
+  - delay: 906
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;33;93me\e[0m\e[0K\e[?25h"
+  - delay: 253
+    content: "\e[0;33;93mx\e[0m\e[0K"
+  - delay: 119
+    content: "\e[0;33;93mi\e[0m\e[0K"
+  - delay: 195
+    content: "\e[?25l\rPS C:\\Users\\Adam\\Documents\\codingBootcamp\\homeworks\\liri-node-app> \e[0;32;92mexit\e[0m\e[0K\e[?25h"
+  - delay: 1996
+    content: "\e[?25l\r\n\e[0K\e[?25h"
